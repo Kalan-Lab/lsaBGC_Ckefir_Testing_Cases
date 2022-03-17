@@ -1,0 +1,1 @@
+GCF_1	T1PKS:3.0; NA:28.0	OG0001702	UDP-galactopyranose mutase	44	0	0.0	1194	False	7	7	0.32	0.0	0.06	0.1	0.05	1.01	0.0034384052180720702	0.0	3	0.6	0.4744089493714676	0.388	0.0	NA|NA	0.388|1	1.3787834934861756	1.0	3=0.1111111111111111|2=1.0|1=0.8|4=0.0|5=0.0	PFAM_domain_|_GLF_|_UDP-galactopyranose mutase; PFAM_domain_|_NAD_binding_8_|_NAD(P)-binding Rossmann-like domain

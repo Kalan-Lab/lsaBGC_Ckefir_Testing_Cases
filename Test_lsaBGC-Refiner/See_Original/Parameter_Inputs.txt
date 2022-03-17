@@ -1,0 +1,9 @@
+GCF Listing File: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Refiner/GCF_1.txt
+OrthoFinder Orthogroups.csv File: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Refiner/Orthogroups.tsv
+Output Directory: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Refiner/See_Original/
+GCF Identifier: GCF_X
+Species Phylogeny Newick File: None
+Sample Retention Set: 4
+Cores: None
+Create GCF Phylogeny?: True
+Use only SCC Homolog Groups for Creating GCF Phylogeny?: False

@@ -1,0 +1,3 @@
+1_LKMN002-3-55_S254	Testing_Metagenomics_Datasets/1_LKMN002-3-55_S254_R1.fastq.gz	Testing_Metagenomics_Datasets/1_LKMN002-3-55_S254_R2.fastq.gz
+2_LKMN002-3-55_S254	Testing_Metagenomics_Datasets/2_LKMN002-3-55_S254_R1.fastq.gz	Testing_Metagenomics_Datasets/2_LKMN002-3-55_S254_R2.fastq.gz
+3_LKMN002-3-55_S254	Testing_Metagenomics_Datasets/3_LKMN002-3-55_S254_R1.fastq.gz	Testing_Metagenomics_Datasets/3_LKMN002-3-55_S254_R2.fastq.gz

@@ -1,0 +1,12 @@
+GCF Listing File: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-PopGene/GCF_1_Expanded.txt
+OrthoFinder Orthogroups.csv File: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-PopGene/Orthogroups.expanded.tsv
+Output Directory: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-PopGene/Results/
+GCF Identifier: GCF_1
+Populations Specification/Listing File: Sample_Populations_Mapping.txt
+Sample Retention Set: None
+Species Phylogeny Newick File: None
+Run Analysis for Each Population: False
+Filter for Outlier Homolog Group Instances: False
+Precomputed FastANI/CompareM Similarities File: Pairwise_Genome_Wide_ANI_Estimates.txt
+AAI Similarity Instead of ANI: False
+Cores: 4

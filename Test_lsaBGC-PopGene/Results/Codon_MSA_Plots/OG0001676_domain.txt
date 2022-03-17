@@ -1,0 +1,2 @@
+domain	domain_index	min_pos	max_pos
+DUF2613_|_Protein of unknown function (DUF2613)	0	32	192

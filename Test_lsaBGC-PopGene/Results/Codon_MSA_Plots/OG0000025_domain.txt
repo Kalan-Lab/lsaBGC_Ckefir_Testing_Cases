@@ -1,0 +1,2 @@
+domain	domain_index	min_pos	max_pos
+Lipase_GDSL_2_|_GDSL-like Lipase/Acylhydrolase family	0	268	1059

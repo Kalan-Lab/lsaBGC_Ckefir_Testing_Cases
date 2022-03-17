@@ -1,0 +1,7 @@
+GCF id	number of BGCs	number of samples	samples with multiple BGCs in GCF	size of the SCC	mean number of OGs	stdev for number of OGs	min pairwise Jaccard similarity	max pairwise Jaccard similarity	number of core gene aggregates	annotations
+GCF_1	3	3	0	19	31.333333333333332	4.041451884327381	47.61904761904761	67.5	1	T1PKS:3.0
+GCF_2	3	3	0	13	15.666666666666666	0.5773502691896257	72.22222222222221	82.35294117647058	1	terpene:3.0
+GCF_3	3	3	0	23	27.333333333333332	2.081665999466133	74.19354838709677	96.55172413793103	1	NAPAA:3.0
+GCF_4	1	1	0	NA	38	0	0	0	0	NRPS:1.0
+GCF_5	1	1	0	NA	19	0	0	0	0	terpene:1.0
+GCF_6	1	1	0	NA	13	0	0	0	0	siderophore:1.0

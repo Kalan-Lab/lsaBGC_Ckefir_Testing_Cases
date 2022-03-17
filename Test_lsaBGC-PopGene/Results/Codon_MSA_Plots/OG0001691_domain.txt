@@ -1,0 +1,8 @@
+domain	domain_index	min_pos	max_pos
+PP-binding_|_Phosphopantetheine attachment site	0	40	236
+PP-binding_|_Phosphopantetheine attachment site	0	3331	3525
+ketoacyl-synt_|_Beta-ketoacyl synthase, N-terminal domain	1	298	1038
+Ketoacyl-synt_C_|_Beta-ketoacyl synthase, C-terminal domain	2	1060	1413
+KAsynt_C_assoc_|_Ketoacyl-synthetase C-terminal extension	3	1420	1634
+Acyl_transf_1_|_Acyl transferase domain	4	1867	2826
+Thioesterase_|_Thioesterase domain	5	3904	4395

@@ -1,0 +1,1 @@
+Corynebacterium_kefirresidentii_RS_GCF_001054195_1	/home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Expansion/Results/BGC_Genbanks/Corynebacterium_kefirresidentii_RS_GCF_001054195_1_BGC-1.gbk

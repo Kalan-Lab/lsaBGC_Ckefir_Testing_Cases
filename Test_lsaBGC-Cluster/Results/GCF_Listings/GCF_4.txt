@@ -1,0 +1,1 @@
+Corynebacterium_tuberculostearicum_GB_GCA_016728365_1	AntiSMASH_BGCs/CP068156.1.region004.gbk

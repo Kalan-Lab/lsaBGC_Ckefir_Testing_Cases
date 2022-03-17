@@ -1,0 +1,2 @@
+domain	domain_index	min_pos	max_pos
+PAP2_|_PAP2 superfamily	0	184	494

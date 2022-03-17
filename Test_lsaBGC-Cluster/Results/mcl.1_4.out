@@ -1,0 +1,11 @@
+# cline: mcl /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.mci "-I" "1.4" "-o" "/home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Cluster/Results/mcl.1_4.out" "-te" "4"
+(mclheader
+mcltype matrix
+dimensions 9x3
+)
+(mclmatrix
+begin
+0 0 1 2 $
+1 3 4 5 $
+2 6 7 8 $
+)

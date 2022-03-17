@@ -1,0 +1,9 @@
+GCF Listing File: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Divergence/GCF_1_Expanded.txt
+Input Listing File of Prokka Annotation Files for All Samples: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Divergence/Sample_Annotation_Files.txt
+File Listing the Location of Codon Alignments for Each Homolog Group: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Divergence/Codon_Alignments_Listings.txt
+Output Directory: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Divergence/Results/
+GCF Identifier: GCF_1
+Retention Sample Set: None
+Precomputed FastANI/CompareM Similarities File: Pairwise_Genome_Wide_ANI_Estimates.txt
+AAI Similarity Instead of ANI: False
+Cores: 4

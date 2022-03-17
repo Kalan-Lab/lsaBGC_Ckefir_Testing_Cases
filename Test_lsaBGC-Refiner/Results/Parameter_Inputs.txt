@@ -1,0 +1,6 @@
+GCF Listing File: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Refiner/GCF_1.txt
+OrthoFinder Orthogroups.csv File: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Refiner/Orthogroups.tsv
+Output Directory: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Refiner/Results/
+GCF Identifier: GCF_1
+First Boundary Homolog: OG0001678
+Second Boundary Homolog: OG0001693

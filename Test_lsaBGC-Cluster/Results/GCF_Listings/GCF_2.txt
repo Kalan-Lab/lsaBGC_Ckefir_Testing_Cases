@@ -1,0 +1,3 @@
+Corynebacterium_tuberculostearicum_GB_GCA_016728365_1	AntiSMASH_BGCs/CP068156.1.region001.gbk
+Corynebacterium_aurimucosum_E_GB_GCA_016127015_1	AntiSMASH_BGCs/CP065972.1.region001.gbk
+Corynebacterium_kefirresidentii_GB_GCA_016599755_1	AntiSMASH_BGCs/CP067012.1.region003.gbk

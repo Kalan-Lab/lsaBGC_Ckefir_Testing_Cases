@@ -1,0 +1,3 @@
+domain	domain_index	min_pos	max_pos
+PEPCK_N_|_Phosphoenolpyruvate carboxykinase N-terminal domain	0	64	723
+PEPCK_GTP_|_Phosphoenolpyruvate carboxykinase C-terminal P-loop domain	1	733	1809
