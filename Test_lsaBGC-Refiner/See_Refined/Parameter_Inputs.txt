@@ -1,6 +1,6 @@
-GCF Listing File: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Refiner/Results/GCF_1.txt
-OrthoFinder Orthogroups.csv File: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Refiner/Orthogroups.tsv
-Output Directory: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Refiner/See_Refined/
+GCF Listing File: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Refiner/Results/GCF_1.txt
+OrthoFinder Orthogroups.csv File: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Refiner/Orthogroups.tsv
+Output Directory: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Refiner/See_Refined/
 GCF Identifier: GCF_X
 Species Phylogeny Newick File: None
 Sample Retention Set: 4

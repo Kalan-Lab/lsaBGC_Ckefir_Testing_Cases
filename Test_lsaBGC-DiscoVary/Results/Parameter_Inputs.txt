@@ -1,7 +1,7 @@
-GCF Listing File: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-DiscoVary/GCF_1_Expanded.txt
-OrthoFinder Orthogroups.csv File: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-DiscoVary/Orthogroups.expanded.tsv
-Paired-Sequencing Listing File: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-DiscoVary/Testing_Metagenomics_Datasets_Listing.txt
-Output Directory: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-DiscoVary/Results/
+GCF Listing File: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-DiscoVary/GCF_1_Expanded.txt
+OrthoFinder Orthogroups.csv File: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-DiscoVary/Orthogroups.expanded.tsv
+Paired-Sequencing Listing File: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-DiscoVary/Testing_Metagenomics_Datasets_Listing.txt
+Output Directory: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-DiscoVary/Results/
 GCF Identifier: GCF_X
 Core Homologs Manually Provided: False
 Cores: 4

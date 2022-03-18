@@ -1,36 +1,36 @@
-2022-03-16 23:25 - INFO - Saving parameters for future provedance.
-2022-03-16 23:25 - INFO - Done saving parameters!
-2022-03-16 23:25 - INFO - Starting to process BGC Genbanks from listing file.
-2022-03-16 23:25 - INFO - Incorporating genbank AntiSMASH_BGCs/CP068156.1.region003.gbk for sample Corynebacterium_tuberculostearicum_GB_GCA_016728365_1 into analysis.
-2022-03-16 23:25 - INFO - Incorporating genbank AntiSMASH_BGCs/CP068156.1.region004.gbk for sample Corynebacterium_tuberculostearicum_GB_GCA_016728365_1 into analysis.
-2022-03-16 23:25 - INFO - Incorporating genbank AntiSMASH_BGCs/CP068156.1.region001.gbk for sample Corynebacterium_tuberculostearicum_GB_GCA_016728365_1 into analysis.
-2022-03-16 23:25 - INFO - Incorporating genbank AntiSMASH_BGCs/CP068156.1.region002.gbk for sample Corynebacterium_tuberculostearicum_GB_GCA_016728365_1 into analysis.
-2022-03-16 23:25 - INFO - Incorporating genbank AntiSMASH_BGCs/CP065972.1.region001.gbk for sample Corynebacterium_aurimucosum_E_GB_GCA_016127015_1 into analysis.
-2022-03-16 23:25 - INFO - Incorporating genbank AntiSMASH_BGCs/CP065972.1.region002.gbk for sample Corynebacterium_aurimucosum_E_GB_GCA_016127015_1 into analysis.
-2022-03-16 23:25 - INFO - Incorporating genbank AntiSMASH_BGCs/CP065972.1.region003.gbk for sample Corynebacterium_aurimucosum_E_GB_GCA_016127015_1 into analysis.
-2022-03-16 23:25 - INFO - Incorporating genbank AntiSMASH_BGCs/CP067012.1.region002.gbk for sample Corynebacterium_kefirresidentii_GB_GCA_016599755_1 into analysis.
-2022-03-16 23:25 - INFO - Incorporating genbank AntiSMASH_BGCs/CP067012.1.region001.gbk for sample Corynebacterium_kefirresidentii_GB_GCA_016599755_1 into analysis.
-2022-03-16 23:25 - INFO - Incorporating genbank AntiSMASH_BGCs/CP067012.1.region004.gbk for sample Corynebacterium_kefirresidentii_GB_GCA_016599755_1 into analysis.
-2022-03-16 23:25 - INFO - Incorporating genbank AntiSMASH_BGCs/CP067012.1.region005.gbk for sample Corynebacterium_kefirresidentii_GB_GCA_016599755_1 into analysis.
-2022-03-16 23:25 - INFO - Incorporating genbank AntiSMASH_BGCs/CP067012.1.region003.gbk for sample Corynebacterium_kefirresidentii_GB_GCA_016599755_1 into analysis.
-2022-03-16 23:25 - INFO - Successfully parsed BGC Genbanks.
-2022-03-16 23:25 - INFO - Starting to parse OrthoFinder homolog vs sample information.
-2022-03-16 23:25 - INFO - Successfully inputted homolog information from OrthoFinder into variables of Pan object!
-2022-03-16 23:25 - INFO - Successfully parsed homolog matrix.
-2022-03-16 23:25 - INFO - Calculating overlap in single copy ortholog Groups between BGC GBKs.
-2022-03-16 23:25 - INFO - Calculated pairwise relations and wrote to: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.txt
-2022-03-16 23:25 - INFO - Successfully calculated pairwise distances between BGCs based on homolog profiles.
-2022-03-16 23:25 - INFO - Starting to run MCL for finding Gene Cluster Families (GCFs)!
-2022-03-16 23:25 - INFO - Will be writing final stats report on GCF clustering to file /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Cluster/Results/GCF_Details.txt
-2022-03-16 23:25 - INFO - Running the following command: mcxload -abc /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.20.000000.txt --stream-mirror -write-tab /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.tab -o /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.mci
-2022-03-16 23:25 - INFO - Successfully ran: mcxload -abc /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.20.000000.txt --stream-mirror -write-tab /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.tab -o /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.mci
-2022-03-16 23:25 - INFO - Converted format of pair relationship file via mxcload.
-2022-03-16 23:25 - INFO - Running MCL and MCXDUMP with inflation parameter set to 1.400000
-2022-03-16 23:25 - INFO - Running the following command: mcl /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.mci -I 1.4 -o /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Cluster/Results/mcl.1_4.out -te 4
-2022-03-16 23:25 - INFO - Successfully ran: mcl /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.mci -I 1.4 -o /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Cluster/Results/mcl.1_4.out -te 4
-2022-03-16 23:25 - INFO - Running the following command: mcxdump -icl /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Cluster/Results/mcl.1_4.out -tabr /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.tab -o /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Cluster/Results/final_mcl.1_4.out
-2022-03-16 23:25 - INFO - Successfully ran: mcl /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.mci -I 1.4 -o /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-Cluster/Results/mcl.1_4.out -te 4
-2022-03-16 23:25 - INFO - Successfully ran MCL and MCXDUMP with inflatimulti_same_sampleon parameter set to 1.400000!
-2022-03-16 23:25 - INFO - Writing list of BGCs for each GCF, which will be used as input for downstream programs in the suite!
-2022-03-16 23:25 - INFO - Successfully wrote lists of BGCs for each GCF.
-2022-03-16 23:25 - INFO - Successfully ran MCL clustering analysis to determine GCFs!
+2022-03-18 16:41 - INFO - Saving parameters for future provedance.
+2022-03-18 16:41 - INFO - Done saving parameters!
+2022-03-18 16:41 - INFO - Starting to process BGC Genbanks from listing file.
+2022-03-18 16:41 - INFO - Incorporating genbank AntiSMASH_BGCs/CP068156.1.region003.gbk for sample Corynebacterium_tuberculostearicum_GB_GCA_016728365_1 into analysis.
+2022-03-18 16:41 - INFO - Incorporating genbank AntiSMASH_BGCs/CP068156.1.region004.gbk for sample Corynebacterium_tuberculostearicum_GB_GCA_016728365_1 into analysis.
+2022-03-18 16:41 - INFO - Incorporating genbank AntiSMASH_BGCs/CP068156.1.region001.gbk for sample Corynebacterium_tuberculostearicum_GB_GCA_016728365_1 into analysis.
+2022-03-18 16:41 - INFO - Incorporating genbank AntiSMASH_BGCs/CP068156.1.region002.gbk for sample Corynebacterium_tuberculostearicum_GB_GCA_016728365_1 into analysis.
+2022-03-18 16:41 - INFO - Incorporating genbank AntiSMASH_BGCs/CP065972.1.region001.gbk for sample Corynebacterium_aurimucosum_E_GB_GCA_016127015_1 into analysis.
+2022-03-18 16:41 - INFO - Incorporating genbank AntiSMASH_BGCs/CP065972.1.region002.gbk for sample Corynebacterium_aurimucosum_E_GB_GCA_016127015_1 into analysis.
+2022-03-18 16:41 - INFO - Incorporating genbank AntiSMASH_BGCs/CP065972.1.region003.gbk for sample Corynebacterium_aurimucosum_E_GB_GCA_016127015_1 into analysis.
+2022-03-18 16:41 - INFO - Incorporating genbank AntiSMASH_BGCs/CP067012.1.region002.gbk for sample Corynebacterium_kefirresidentii_GB_GCA_016599755_1 into analysis.
+2022-03-18 16:41 - INFO - Incorporating genbank AntiSMASH_BGCs/CP067012.1.region001.gbk for sample Corynebacterium_kefirresidentii_GB_GCA_016599755_1 into analysis.
+2022-03-18 16:41 - INFO - Incorporating genbank AntiSMASH_BGCs/CP067012.1.region004.gbk for sample Corynebacterium_kefirresidentii_GB_GCA_016599755_1 into analysis.
+2022-03-18 16:41 - INFO - Incorporating genbank AntiSMASH_BGCs/CP067012.1.region005.gbk for sample Corynebacterium_kefirresidentii_GB_GCA_016599755_1 into analysis.
+2022-03-18 16:41 - INFO - Incorporating genbank AntiSMASH_BGCs/CP067012.1.region003.gbk for sample Corynebacterium_kefirresidentii_GB_GCA_016599755_1 into analysis.
+2022-03-18 16:41 - INFO - Successfully parsed BGC Genbanks.
+2022-03-18 16:41 - INFO - Starting to parse OrthoFinder homolog vs sample information.
+2022-03-18 16:41 - INFO - Successfully inputted homolog information from OrthoFinder into variables of Pan object!
+2022-03-18 16:41 - INFO - Successfully parsed homolog matrix.
+2022-03-18 16:41 - INFO - Calculating overlap in single copy ortholog Groups between BGC GBKs.
+2022-03-18 16:41 - INFO - Calculated pairwise relations and wrote to: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.txt
+2022-03-18 16:41 - INFO - Successfully calculated pairwise distances between BGCs based on homolog profiles.
+2022-03-18 16:41 - INFO - Starting to run MCL for finding Gene Cluster Families (GCFs)!
+2022-03-18 16:41 - INFO - Will be writing final stats report on GCF clustering to file /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/GCF_Details.txt
+2022-03-18 16:41 - INFO - Running the following command: mcxload -abc /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.20.000000.txt --stream-mirror -write-tab /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.tab -o /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.mci
+2022-03-18 16:41 - INFO - Successfully ran: mcxload -abc /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.20.000000.txt --stream-mirror -write-tab /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.tab -o /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.mci
+2022-03-18 16:41 - INFO - Converted format of pair relationship file via mxcload.
+2022-03-18 16:41 - INFO - Running MCL and MCXDUMP with inflation parameter set to 1.400000
+2022-03-18 16:41 - INFO - Running the following command: mcl /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.mci -I 1.4 -o /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/mcl.1_4.out -te 4
+2022-03-18 16:41 - INFO - Successfully ran: mcl /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.mci -I 1.4 -o /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/mcl.1_4.out -te 4
+2022-03-18 16:41 - INFO - Running the following command: mcxdump -icl /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/mcl.1_4.out -tabr /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.tab -o /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/final_mcl.1_4.out
+2022-03-18 16:41 - INFO - Successfully ran: mcl /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/bgc_pair_relationships.mci -I 1.4 -o /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/mcl.1_4.out -te 4
+2022-03-18 16:41 - INFO - Successfully ran MCL and MCXDUMP with inflatimulti_same_sampleon parameter set to 1.400000!
+2022-03-18 16:41 - INFO - Writing list of BGCs for each GCF, which will be used as input for downstream programs in the suite!
+2022-03-18 16:41 - INFO - Successfully wrote lists of BGCs for each GCF.
+2022-03-18 16:41 - INFO - Successfully ran MCL clustering analysis to determine GCFs!

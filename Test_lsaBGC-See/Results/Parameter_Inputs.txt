@@ -1,6 +1,6 @@
-GCF Listing File: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-See/GCF_1_Expanded.txt
-OrthoFinder Orthogroups.csv File: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-See/Orthogroups.expanded.tsv
-Output Directory: /home/salamzade/lsaBGC_Development/Tutorial/testing_cases/Test_lsaBGC-See/Results/
+GCF Listing File: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-See/GCF_1_Expanded.txt
+OrthoFinder Orthogroups.csv File: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-See/Orthogroups.expanded.tsv
+Output Directory: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-See/Results/
 GCF Identifier: GCF_1
 Species Phylogeny Newick File: C_tuberculostearicum_Clade_RAxML.midpoint.tre
 Sample Retention Set: 40
