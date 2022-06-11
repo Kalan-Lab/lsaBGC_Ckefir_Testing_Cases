@@ -1,0 +1,2 @@
+domain	domain_index	min_pos	max_pos
+DUF3054_|_Protein of unknown function (DUF3054)	0	16	317

@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+CP065972.1.region001_ORF9:gid:crtB:pid::loc:10000:10876:strand:+:17:196         mg--QYSTSFSLATRLLRGRVRADIRHLYAVVRIADELVDGAAaqAHTDPAAALDAYEQTILAAP---QRRLHTDPIVHAYAITARRCGFHREYLAAFFNSMRADLTQ-REYSPSELQDYIYGSAEVIGLLCLQIFLAEEDVspadrAAMERGARALGSAFQKINFLRDLGEDsSTLGRTYL------------------
+#=GR CP065972.1.region001_ORF9:gid:crtB:pid::loc:10000:10876:strand:+:17:196 PP 87..6899**********************************98656666668************...678899*********************************5.5569*************************7444666667899999*******************9889****9..................
+CP068156.1.region001_ORF9:gid:crtB:pid::loc:10000:10876:strand:+:17:195         mg--QYSTSFSLATRLLRGRVRADIRHLYAVVRIADELVDGAAaqAHTDPAAALDAYEKTILAAP---QQRLHTDPVVHAYAITARRCGFHREHLVAFFSSMRADLT-HREYSPSELQDYIYGSAEAIGLLCLQIFLAEENVspadrAAMERGARALGSAFQKINFLRDLREDsSTLGRTY-------------------
+#=GR CP068156.1.region001_ORF9:gid:crtB:pid::loc:10000:10876:strand:+:17:195 PP 87..6899**********************************98656666668************...778999*********************************.7778**************************8444555557899999*******************87789988...................
+CP067012.1.region003_ORF8:gid:crtB:pid::loc:9578:10454:strand:-:17:267          mg--RYSTSFSLATRLLRGRVRADIRHLYAVVRIADELVDGAAaqAHTDPAAALDAYEKTILAAP---QQRLHTDLVVHAYALTARRCGFPREYLAAFFHSMRADLKQRE-YSSAELQDYIYGSAEVIGLLCLQIFLAEESVspadrTAMERGARALGSAFQKINFLRDLGEDsS-----TLGRTYFQQA--PSGRI---
+#=GR CP067012.1.region003_ORF8:gid:crtB:pid::loc:9578:10454:strand:-:17:267  PP 87..689***********************************98656666668************...778999*********************************654.6889***********************844455555789999********************54.....4555556662..22222...
+#=GC PP_cons                                                                    ....6899**********************************9..56666668************...778999*********************************5656799************************8444.....7899999*******************.6799997755556662..22222...
+#=GC RF                                                                         ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CP065972.1.region001_ORF9:gid:crtB:pid::loc:10000:10876:strand:+:17:196         -------------------------------------------------------------.------------qqap
+#=GR CP065972.1.region001_ORF9:gid:crtB:pid::loc:10000:10876:strand:+:17:196 PP ..........................................................................789*
+CP068156.1.region001_ORF9:gid:crtB:pid::loc:10000:10876:strand:+:17:195         -------------------------------------------------------------.------------fqqa
+#=GR CP068156.1.region001_ORF9:gid:crtB:pid::loc:10000:10876:strand:+:17:195 PP ..........................................................................699*
+CP067012.1.region003_ORF8:gid:crtB:pid::loc:9578:10454:strand:-:17:267          ------DEATKSALIAEIRQELATAALTIDLL-PASARVGVSAAADIFAELTNRLAATPATdLTTTRVSVPN--ht..
+#=GR CP067012.1.region003_ORF8:gid:crtB:pid::loc:9578:10454:strand:-:17:267  PP ......12233467777777778888889999.888***********************9988889999987..68..
+#=GC PP_cons                                                                    ......12233467777777778888889999.888***********************99.8889999987......
+#=GC RF                                                                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxx....
+//

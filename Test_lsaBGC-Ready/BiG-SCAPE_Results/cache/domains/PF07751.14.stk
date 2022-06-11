@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+CP065972.1.region003_ORF33:gid::pid::loc:41385:42123:strand:+:4:206         hewerferglsrprl-----------------------TPYlEraGHDPELALALYRWNIEISAAFLEVLAPVEIIVRNAIDRELRlwnrqrrqpdgsSYGPDWTINPATQLASLKRT-----L-SEATRQARKSARSrPT-YHPRKS....-TEVTHDDIVAQLSFGVWPRLLPPSQPnNKKKQILWDYALvrafpyaa
+#=GR CP065972.1.region003_ORF33:gid::pid::loc:41385:42123:strand:+:4:206 PP *98776666655554.......................5566667999999**********************************998777665555544555555554333322211.....3.2222222233333233.333344.....799999*******************8789999997774443333333
+CP068156.1.region001_ORF8:gid::pid::loc:9278:9965:strand:+:33:182           fsaprmrrfldhpdp--------------------------.-..-------AALYLWNTRVSKAFLEDIQHTEVLLRNHINTALS...........aKYGPEWFDSPKIPFTSQSKK----AI-TKAQRRT---N--.FNK-NRNTGkviaELNFDFWRYLLTTTYQTTIWP--CLHS.TFSSRVSRKD--........
+#=GR CP068156.1.region001_ORF8:gid::pid::loc:9278:9965:strand:+:33:182   PP ***999998887765.....................................68********************************...........*88*****9998775555522....13.3333333...2...222.22222244336799**********999877..8888.8889999554..........
+#=GC PP_cons                                                                ......................................556.6..999999*89********************************............66777777776554444422....13.2222222233233.332323333....37899************9998**9998.888999966644........
+#=GC RF                                                                     ...............xxxxxxxxxxxxxxxxxxxxxxxxxx.x..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxx........
+
+CP065972.1.region003_ORF33:gid::pid::loc:41385:42123:strand:+:4:206         hNsvsgvlkqpavelVYERLHRLAQLRNRAAHVENLL-d
+#=GR CP065972.1.region003_ORF33:gid::pid::loc:41385:42123:strand:+:4:206 PP 303334444566779*****************99986.7
+CP068156.1.region001_ORF8:gid::pid::loc:9278:9965:strand:+:33:182           .-.............FEAQVQTIYTFRNRAAHHEPII-r
+#=GR CP068156.1.region001_ORF8:gid::pid::loc:9278:9965:strand:+:33:182   PP ...............9******************986.8
+#=GC PP_cons                                                                .0.............9*****************9986..
+#=GC RF                                                                     .x.............xxxxxxxxxxxxxxxxxxxxxxx.
+//

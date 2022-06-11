@@ -1,0 +1,6 @@
+domain	domain_index	min_pos	max_pos
+Esterase_|_Putative esterase	0	298	1103
+LGFP_|_LGFP repeat	1	1201	1349
+LGFP_|_LGFP repeat	1	1357	1514
+LGFP_|_LGFP repeat	1	1525	1664
+LGFP_|_LGFP repeat	1	1675	1829

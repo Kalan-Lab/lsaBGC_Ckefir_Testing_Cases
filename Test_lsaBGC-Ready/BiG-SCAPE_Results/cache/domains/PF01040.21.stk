@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+CP068156.1.region003_ORF25:gid::pid::loc:35643:36624:strand:-:48:301         vlvla--APAAAGADALFHGRVLL-DVLLAFVVFCLGASSIYLINDAKDWREDQEHPTKRFRPIASGVLPIKLAYVMAVVLIGLSIGLSfLATAGPQLAIVMAIYIALQLGYCFGWKHMPVIDIALVSSGFMLRTMAGGVAAGIELSQWFLLVAAF-GSLFMASGKRYsEILLVEQTgAKIRK-SlegyTPTYLRFVWTL
+#=GR CP068156.1.region003_ORF25:gid::pid::loc:35643:36624:strand:-:48:301 PP 98754..45555554555555555.5666667777**************************************************9999778889*************************************************************.55555555555488888888444444.459999****999999
+CP065972.1.region003_ORF28:gid::pid::loc:35639:36620:strand:-:48:301         vlvla--APAAAGAEALFHGRVLL-DVLLAFVVFCLGASSIYLINDAKDWREDQEHPTKRFRPIASGVLPIKLAYVMAVVLIVLSIGLSfLATAGPQLAIVMAIYIALQLGYCFGWKHMPVIDIALVSSGFMLRTMAGGVAAGIELSQWFLLVAAF-GSLFMASGKRYsEILLVEQTgAKIRK-SlegyTPTYLRFVWTL
+#=GR CP065972.1.region003_ORF28:gid::pid::loc:35639:36620:strand:-:48:301 PP 99864..57777777777777777.66777777789*************************************************9999778889*************************************************************.55555555555488888888444444.459999****999999
+#=GC PP_cons                                                                 .......56666666666666666.56677777779*************************************************9999.78889*************************************************************.55555555555.88888888.44444.4....9****999999
+#=GC RF                                                                      .....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxx.xxxxxxx....xxxxxxxxxxx
+
+CP068156.1.region003_ORF25:gid::pid::loc:35643:36624:strand:-:48:301         AATAVVICYTLWGFELANDAQTGGVWYQISMVPFTIAILRYAADVDRGQGGAP----------deiale
+#=GR CP068156.1.region003_ORF25:gid::pid::loc:35643:36624:strand:-:48:301 PP 9766666666666899999************************9999877665..........66789*
+CP065972.1.region003_ORF28:gid::pid::loc:35639:36620:strand:-:48:301         AATAVVICYTLWGFELANDAQTGGVWYQISMVPFTIAILRYAADVDRGQGGAP----------deiale
+#=GR CP065972.1.region003_ORF28:gid::pid::loc:35639:36620:strand:-:48:301 PP 9766666666666899999************************9999877665..........66789*
+#=GC PP_cons                                                                 9766666666666899999************************9999877665................
+#=GC RF                                                                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......
+//

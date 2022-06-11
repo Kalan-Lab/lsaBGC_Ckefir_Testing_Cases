@@ -1,2 +1,0 @@
-domain	domain_index	min_pos	max_pos
-Usp_|_Universal stress protein family	0	17	459

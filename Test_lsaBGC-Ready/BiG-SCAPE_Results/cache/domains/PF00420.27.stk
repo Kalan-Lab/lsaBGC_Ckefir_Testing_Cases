@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+CP065972.1.region002_ORF28:gid:mrpC_2:pid::loc:32972:33473:strand:+:6:111         FLLLAAGVLVAAGVYLLL-DRAMTKMLLGLLLLGNGANLFLLQSGGSA-GSPPIdgresEPYGAEIADPLAQAMILTAIVISMALTAFILTLAYRQYRYRTDDV------iedd
+#=GR CP065972.1.region002_ORF28:gid:mrpC_2:pid::loc:32972:33473:strand:+:6:111 PP 68999*************.***************************98.788889***7777899********************************9776554......568*
+CP067012.1.region002_ORF1:gid:mrpC_1:pid::loc:462:963:strand:-:6:111              FLLLAAGVLVAAGVYLLL-DRAMTKMLLGLLLLGNGANLFLLQSGGSA-GSPPIdgrdsEPFGTEIADPLAQAMILTAIVISMALTAFILTLAYRQYRYRTDDV------iedd
+#=GR CP067012.1.region002_ORF1:gid:mrpC_1:pid::loc:462:963:strand:-:6:111      PP 68999*************.***************************98.788889***999************************************9776554......568*
+CP068156.1.region002_ORF26:gid:mrpC_2:pid::loc:33011:33512:strand:+:6:111         FLLLAAGVLVAAGVYLLL-DRTMTKMMLGLLLLGNGANLFLLQSGGSA-GSPPIdgresEPYGAEIADPLAQAMILTAIVISMALTAFILTLAYRQYRYRTDDV------iedd
+#=GR CP068156.1.region002_ORF26:gid:mrpC_2:pid::loc:33011:33512:strand:+:6:111 PP 68999*************.***************************98.788889***7777899********************************9776554......568*
+#=GC PP_cons                                                                      68999*************.***************************98.78888.....88889*********************************9776554..........
+#=GC RF                                                                           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....
+//

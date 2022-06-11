@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+CP065972.1.region002_ORF6:gid:folK:pid::loc:4861:5347:strand:-:4:128            VLSIGSNMDDRVELLRTVFDEFAGEIVAASPVYATPPWgvtDQDEFLNAVLIVDVEETPKELLRRGQKLEEAAERVRvrhWGPRTLDVDIIDIEgytsddpeLFVPHPYAHERAFVLIPWLA---ada
+#=GR CP065972.1.region002_ORF6:gid:folK:pid::loc:4861:5347:strand:-:4:128    PP 689*******************999*************99889********************************96678***************************************986...679
+CP067012.1.region002_ORF24:gid:folK:pid::loc:28554:29040:strand:+:4:127         VLSIGSNMDDRVKLLRTVFDEFAGDIVAASPVYATPPWgvtDQDEFLNAVLIVDVDESPKELLRRGQKLEEAAERVRvrhWGPRTLDVDIVDIEgytsddpeLTVPHPYAHERAFVLIPWLA---ad.
+#=GR CP067012.1.region002_ORF24:gid:folK:pid::loc:28554:29040:strand:+:4:127 PP 689*******************999*************99889********************************96678***************************************985...78.
+CP068156.1.region002_ORF1:gid:folK:pid::loc:157:643:strand:-:4:128              VLSIGSNMDDRVELLRTVFDEFAGEIVAASPVYATPPWgvtDQDEFLNAVLIVDVDETPKELLRRGQKLEESAERVRvrhWGPRTLDVDIVDIEgytsddpeLIVPHPYAHERAFVLIPWLA---ada
+#=GR CP068156.1.region002_ORF1:gid:folK:pid::loc:157:643:strand:-:4:128      PP 689*******************999*************99889********************************96678***************************************986...679
+#=GC PP_cons                                                                    689*******************999*************...89********************************96...**************........*****************986......
+#=GC RF                                                                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxx........xxxxxxxxxxxxxxxxxxxxxxx...
+//

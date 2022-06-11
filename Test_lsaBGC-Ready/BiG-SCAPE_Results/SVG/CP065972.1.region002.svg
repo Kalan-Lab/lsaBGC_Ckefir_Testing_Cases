@@ -1,0 +1,338 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1150.8" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1140.8" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (AAA_01784)
+hypothetical protein</title>
+			<polygon class=" (AAA_01784)
+hypothetical protein" points="48,40 68,10 68,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>panC (AAA_01785)
+Pantothenate synthetase</title>
+			<polygon class="panC (AAA_01785)
+Pantothenate synthetase" points="98,25 98,25 98,10 68,40 98,70 98,55 98,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pantoate_ligase (PF02569)
+"Pantoate-beta-alanine ligase"</title>
+				<polygon class="PF02569" points="72,40 84,28 97,28 97,52 84,52 72,40" stroke-linejoin="round" width="25" height="24" fill="rgb(53,172,184)" stroke="rgb(42,137,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAA_01786)
+hypothetical protein</title>
+			<polygon class=" (AAA_01786)
+hypothetical protein" points="98,40 120,10 120,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rossmann-like (PF10727)
+"Rossmann-like domain"</title>
+				<polygon class="PF10727" points="110,29 111,28 116,28 116,52 111,52 110,51" stroke-linejoin="round" width="6" height="24" fill="rgb(179,64,145)" stroke="rgb(143,51,115)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAA_01787)
+hypothetical protein</title>
+			<polygon class=" (AAA_01787)
+hypothetical protein" points="155,25 151,25 151,10 121,40 151,70 151,55 155,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF6779 (PF20570)
+"Domain of unknown function (DUF6779)"</title>
+				<rect class="PF20570" x="141" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(109,65,205)" stroke="rgb(87,51,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAA_01788)
+hypothetical protein</title>
+			<polygon class=" (AAA_01788)
+hypothetical protein" points="156,40 171,10 171,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3180 (PF11377)
+"Protein of unknown function (DUF3180)"</title>
+				<polygon class="PF11377" points="159,40 165,28 170,28 170,52 165,52" stroke-linejoin="round" width="13" height="24" fill="rgb(87,199,138)" stroke="rgb(69,159,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>folK (AAA_01789)
+2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase</title>
+			<polygon class="folK (AAA_01789)
+2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase" points="172,40 188,10 188,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HPPK (PF01288)
+"7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase (HPPK)"</title>
+				<polygon class="PF01288" points="175,40 181,28 187,28 187,52 181,52 175,40" stroke-linejoin="round" width="12" height="24" fill="rgb(203,129,62)" stroke="rgb(162,103,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>folB (AAA_01790)
+Dihydroneopterin aldolase</title>
+			<polygon class="folB (AAA_01790)
+Dihydroneopterin aldolase" points="188,40 200,10 200,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FolB (PF02152)
+"Dihydroneopterin aldolase"</title>
+				<polygon class="PF02152" points="191,40 196,28 200,28 200,52 196,52" stroke-linejoin="round" width="11" height="24" fill="rgb(113,204,65)" stroke="rgb(90,163,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>folP1 (AAA_01791)
+Dihydropteroate synthase</title>
+			<polygon class="folP1 (AAA_01791)
+Dihydropteroate synthase" points="233,25 231,25 231,10 201,40 231,70 231,55 233,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pterin_bind (PF00809)
+"Pterin binding enzyme"</title>
+				<polygon class="PF00809" points="206,39 217,28 230,28 230,52 217,52 206,41" stroke-linejoin="round" width="24" height="24" fill="rgb(192,119,62)" stroke="rgb(153,95,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>folE (AAA_01792)
+GTP cyclohydrolase 1</title>
+			<polygon class="folE (AAA_01792)
+GTP cyclohydrolase 1" points="234,40 253,10 253,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GTP_cyclohydroI (PF01227)
+"GTP cyclohydrolase I"</title>
+				<polygon class="PF01227" points="238,40 246,28 251,28 251,52 246,52" stroke-linejoin="round" width="17" height="24" fill="rgb(48,180,84)" stroke="rgb(38,144,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ftsH (AAA_01793)
+ATP-dependent zinc metalloprotease FtsH</title>
+			<polygon class="ftsH (AAA_01793)
+ATP-dependent zinc metalloprotease FtsH" points="332,25 284,25 284,10 254,40 284,70 284,55 332,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M41 (PF01434)
+"Peptidase family M41"</title>
+				<rect class="PF01434" x="272" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(108,182,48)" stroke="rgb(86,145,38)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_lid_3 (PF17862)
+"AAA+ lid domain"</title>
+				<rect class="PF17862" x="292" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(219,69,225)" stroke="rgb(175,55,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA (PF00004)
+"ATPase family associated with various cellular activities (AAA)"</title>
+				<rect class="PF00004" x="299" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(57,194,204)" stroke="rgb(45,155,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>hpt (AAA_01794)
+Hypoxanthine-guanine phosphoribosyltransferase</title>
+			<polygon class="hpt (AAA_01794)
+Hypoxanthine-guanine phosphoribosyltransferase" points="333,40 352,10 352,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pribosyltran (PF00156)
+"Phosphoribosyl transferase domain"</title>
+				<polygon class="PF00156" points="337,40 345,28 350,28 350,52 345,52" stroke-linejoin="round" width="15" height="24" fill="rgb(210,210,74)" stroke="rgb(168,168,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tilS (AAA_01795)
+tRNA(Ile)-lysidine synthase</title>
+			<polygon class="tilS (AAA_01795)
+tRNA(Ile)-lysidine synthase" points="384,25 383,25 383,10 353,40 383,70 383,55 384,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TilS (PF09179)
+"TilS substrate binding domain"</title>
+				<polygon class="PF09179" points="357,40 359,38 359,42" stroke-linejoin="round" width="6" height="24" fill="rgb(92,75,220)" stroke="rgb(73,60,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ATP_bind_3 (PF01171)
+"PP-loop family"</title>
+				<polygon class="PF01171" points="364,33 369,28 381,28 381,52 369,52 364,47" stroke-linejoin="round" width="17" height="24" fill="rgb(97,189,207)" stroke="rgb(77,151,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dacB (AAA_01796)
+D-alanyl-D-alanine carboxypeptidase DacB</title>
+			<polygon class="dacB (AAA_01796)
+D-alanyl-D-alanine carboxypeptidase DacB" points="426,25 414,25 414,10 384,40 414,70 414,55 426,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S13 (PF02113)
+"D-Ala-D-Ala carboxypeptidase 3 (S13) family"</title>
+				<polygon class="PF02113" points="388,40 400,28 405,28 405,52 400,52" stroke-linejoin="round" width="21" height="24" fill="rgb(222,106,76)" stroke="rgb(177,84,60)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_S13 (PF02113)
+"D-Ala-D-Ala carboxypeptidase 3 (S13) family"</title>
+				<rect class="PF02113" x="405" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(222,106,76)" stroke="rgb(177,84,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ppa (AAA_01797)
+Inorganic pyrophosphatase</title>
+			<polygon class="ppa (AAA_01797)
+Inorganic pyrophosphatase" points="430,10 445,40 430,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyrophosphatase (PF00719)
+"Inorganic pyrophosphatase"</title>
+				<polygon class="PF00719" points="430,28 435,28 442,40 435,52 430,52" stroke-linejoin="round" width="15" height="24" fill="rgb(225,122,111)" stroke="rgb(180,97,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAA_01798)
+hypothetical protein</title>
+			<polygon class=" (AAA_01798)
+hypothetical protein" points="454,10 481,40 454,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (AAA_01799)
+Sulfurtransferase</title>
+			<polygon class=" (AAA_01799)
+Sulfurtransferase" points="483,10 492,40 483,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rhodanese (PF00581)
+"Rhodanese-like domain"</title>
+				<polygon class="PF00581" points="483,28 485,28 489,40 485,52 483,52" stroke-linejoin="round" width="8" height="24" fill="rgb(145,191,76)" stroke="rgb(116,152,60)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>slyA (AAA_01800)
+Transcriptional regulator SlyA</title>
+			<polygon class="slyA (AAA_01800)
+Transcriptional regulator SlyA" points="494,10 509,40 494,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MarR (PF01047)
+"MarR family"</title>
+				<polygon class="PF01047" points="498,28 499,28 503,35 503,45 499,52 498,52" stroke-linejoin="round" width="5" height="24" fill="rgb(60,185,86)" stroke="rgb(48,148,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lgrD (AAA_01801)
+Linear gramicidin synthase subunit D</title>
+			<polygon class="lgrD (AAA_01801)
+Linear gramicidin synthase subunit D" points="510,25 610,25 610,10 640,40 610,70 610,55 510,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="512" y="28" stroke-linejoin="round" width="38" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="562" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cpdA_2 (AAA_01802)
+3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA</title>
+			<polygon class="cpdA_2 (AAA_01802)
+3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA" points="696,25 671,25 671,10 641,40 671,70 671,55 696,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Metallophos (PF00149)
+"Calcineurin-like phosphoesterase"</title>
+				<polygon class="PF00149" points="649,36 657,28 669,28 669,52 657,52 649,44" stroke-linejoin="round" width="20" height="24" fill="rgb(181,197,58)" stroke="rgb(144,157,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAA_01803)
+Monoacylglycerol lipase</title>
+			<polygon class=" (AAA_01803)
+Monoacylglycerol lipase" points="738,25 730,25 730,10 700,40 730,70 730,55 738,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hydrolase_4 (PF12146)
+"Serine aminopeptidase, S33"</title>
+				<polygon class="PF12146" points="704,40 716,28 729,28 729,52 716,52" stroke-linejoin="round" width="28" height="24" fill="rgb(140,98,205)" stroke="rgb(112,78,164)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ppk2B (AAA_01804)
+Polyphosphate kinase PPK2B</title>
+			<polygon class="ppk2B (AAA_01804)
+Polyphosphate kinase PPK2B" points="778,25 778,25 778,10 748,40 778,70 778,55 778,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PPK2 (PF03976)
+"Polyphosphate kinase 2 (PPK2)"</title>
+				<polygon class="PF03976" points="752,40 764,28 772,28 772,52 764,52" stroke-linejoin="round" width="22" height="24" fill="rgb(57,123,215)" stroke="rgb(45,98,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAA_01805)
+hypothetical protein</title>
+			<polygon class=" (AAA_01805)
+hypothetical protein" points="783,40 787,10 787,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (AAA_01806)
+hypothetical protein</title>
+			<polygon class=" (AAA_01806)
+hypothetical protein" points="789,40 794,10 794,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>groL1 (AAA_01807)
+60 kDa chaperonin 1</title>
+			<polygon class="groL1 (AAA_01807)
+60 kDa chaperonin 1" points="871,25 847,25 847,10 817,40 847,70 847,55 871,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cpn60_TCP1 (PF00118)
+"TCP-1/cpn60 chaperonin family"</title>
+				<polygon class="PF00118" points="821,40 833,28 869,28 869,52 833,52" stroke-linejoin="round" width="50" height="24" fill="rgb(73,204,119)" stroke="rgb(58,163,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAA_01808)
+hypothetical protein</title>
+			<polygon class=" (AAA_01808)
+hypothetical protein" points="944,25 909,25 909,10 879,40 909,70 909,55 944,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OPT (PF03169)
+"OPT oligopeptide transporter protein"</title>
+				<polygon class="PF03169" points="883,40 895,28 942,28 942,52 895,52 883,40" stroke-linejoin="round" width="59" height="24" fill="rgb(199,85,74)" stroke="rgb(159,68,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dapE_2 (AAA_01809)
+putative succinyl-diaminopimelate desuccinylase</title>
+			<polygon class="dapE_2 (AAA_01809)
+putative succinyl-diaminopimelate desuccinylase" points="946,25 968,25 968,10 998,40 968,70 968,55 946,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M20 (PF01546)
+"Peptidase family M20/M25/M40"</title>
+				<polygon class="PF01546" points="961,28 982,28 994,40 982,52 961,52" stroke-linejoin="round" width="37" height="24" fill="rgb(88,213,108)" stroke="rgb(70,170,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mrpA_2 (AAA_01810)
+Na(+)/H(+) antiporter subunit A</title>
+			<polygon class="mrpA_2 (AAA_01810)
+Na(+)/H(+) antiporter subunit A" points="1009,25 1078,25 1078,10 1108,40 1078,70 1078,55 1009,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Proton_antipo_N (PF00662)
+"NADH-Ubiquinone oxidoreductase (complex I), chain 5 N-terminus"</title>
+				<rect class="PF00662" x="1015" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(120,87,218)" stroke="rgb(96,69,174)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Proton_antipo_M (PF00361)
+"Proton-conducting membrane transporter"</title>
+				<rect class="PF00361" x="1021" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(54,193,132)" stroke="rgb(43,154,105)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MbhD (PF13244)
+"MBH, subunit D"</title>
+				<rect class="PF13244" x="1070" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(225,104,219)" stroke="rgb(180,83,175)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MbhE (PF20501)
+"MBH, subunit E"</title>
+				<rect class="PF20501" x="1077" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(107,220,203)" stroke="rgb(85,176,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MnhB (PF04039)
+"Domain related to MnhB subunit of Na+/H+ antiporter"</title>
+				<polygon class="PF04039" points="1089,28 1092,28 1101,37 1101,43 1092,52 1089,52" stroke-linejoin="round" width="12" height="24" fill="rgb(153,222,110)" stroke="rgb(122,177,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mrpC_2 (AAA_01811)
+Na(+)/H(+) antiporter subunit C</title>
+			<polygon class="mrpC_2 (AAA_01811)
+Na(+)/H(+) antiporter subunit C" points="1109,10 1125,40 1109,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Oxidored_q2 (PF00420)
+"NADH-ubiquinone/plastoquinone oxidoreductase chain 4L"</title>
+				<polygon class="PF00420" points="1109,28 1115,28 1119,35 1119,45 1115,52 1109,52" stroke-linejoin="round" width="10" height="24" fill="rgb(73,55,194)" stroke="rgb(58,44,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

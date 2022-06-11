@@ -1,3 +1,0 @@
-domain	domain_index	min_pos	max_pos
-MMPL_|_MMPL family	0	136	1062
-MMPL_|_MMPL family	0	1352	2049

@@ -1,2 +1,0 @@
-domain	domain_index	min_pos	max_pos
-DUF3367_|_Alpha-(1->3)-arabinofuranosyltransferase	0	56	1797

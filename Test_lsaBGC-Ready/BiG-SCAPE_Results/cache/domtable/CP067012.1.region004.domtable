@@ -1,0 +1,36 @@
+#                                                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                    accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                          -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ROK                  PF00480.23   294 CP067012.1.region004_ORF1:gid:glkA:pid::loc:828:1761:strand:+ -            310   4.8e-68  229.9   0.0   1   1   6.1e-72   5.9e-68  229.6   0.0     1   292    10   307    10   308 0.97 ROK family
+Acyltransferase      PF01553.24   135 CP067012.1.region004_ORF2:gid:plsC_2:pid::loc:1784:2525:strand:+ -            246   3.7e-27   94.7   0.0   1   1   2.9e-31   5.7e-27   94.1   0.0     5   134    27   154    24   155 0.94 Acyltransferase
+GT87                 PF09594.13   238 CP067012.1.region004_ORF4:gid::pid::loc:3587:4769:strand:- -            393   4.8e-57  193.6  29.9   1   1   2.4e-61   4.8e-57  193.6  29.9     1   238    73   298    73   298 0.93 Glycosyltransferase family 87
+Rv2179c-like         PF16473.8    166 CP067012.1.region004_ORF5:gid::pid::loc:4843:5353:strand:+ -            169   1.3e-20   74.2   0.0   1   1     1e-24     2e-20   73.5   0.0     1   165     1   155     1   156 0.75 3'-5' exoribonuclease Rv2179c-like domain
+DAHP_synth_2         PF01474.19   437 CP067012.1.region004_ORF6:gid:aroG:pid::loc:5397:6786:strand:+ -            462  1.3e-183  610.6   0.0   1   1  8.3e-188  1.6e-183  610.3   0.0     7   437    30   457    25   457 0.97 Class-II DAHP synthetase family
+Pkinase              PF00069.28   264 CP067012.1.region004_ORF7:gid:pknL:pid::loc:6782:8117:strand:- -            444   9.8e-55  185.9   0.0   1   1   1.9e-58   1.3e-54  185.5   0.0     1   254    14   259    14   269 0.89 Protein kinase domain
+PK_Tyr_Ser-Thr       PF07714.20   259 CP067012.1.region004_ORF7:gid:pknL:pid::loc:6782:8117:strand:- -            444   1.1e-37  129.9   0.0   1   1   2.1e-41   1.4e-37  129.6   0.0     3   249    16   257    14   262 0.85 Protein tyrosine and serine/threonine kinase
+Rv2175c_C            PF18367.4     56 CP067012.1.region004_ORF8:gid::pid::loc:8127:8532:strand:+ -            134   1.3e-23   83.0   0.1   1   1   1.1e-27   2.2e-23   82.2   0.1     2    56    79   133    78   133 0.97 Rv2175c C-terminal domain of unknown function
+polyprenyl_synt      PF00348.20   256 CP067012.1.region004_ORF10:gid::pid::loc:10000:11095:strand:- -            364   5.7e-48  163.3   0.0   1   1     4e-52   7.8e-48  162.9   0.0     8   250    48   309    43   317 0.86 Polyprenyl synthetase
+Acetyltransf_7       PF13508.10    80 CP067012.1.region004_ORF11:gid::pid::loc:11130:11685:strand:- -            184   3.3e-07   30.6   0.0   1   1   6.2e-11   6.1e-07   29.8   0.0    28    78   103   159    54   160 0.71 Acetyltransferase (GNAT) domain
+Acetyltransf_1       PF00583.28   117 CP067012.1.region004_ORF11:gid::pid::loc:11130:11685:strand:- -            184   1.8e-06   28.3   0.0   1   1   2.2e-10   2.1e-06   28.1   0.0    58   117   100   159    19   159 0.80 Acetyltransferase (GNAT) family
+HEPN_SAV_6107        PF18726.4     98 CP067012.1.region004_ORF12:gid::pid::loc:11916:12348:strand:+ -            143   2.2e-12   47.5   4.9   1   1   1.1e-16   2.2e-12   47.5   4.9    12    96    48   131    33   133 0.91 SAV_6107-like HEPN
+DUF3040              PF11239.11    84 CP067012.1.region004_ORF13:gid::pid::loc:12457:12856:strand:+ -            132     3e-24   85.2   1.3   1   1   2.3e-28   4.5e-24   84.6   1.3     1    84     1    87     1    87 0.90 Protein of unknown function (DUF3040)
+MraZ                 PF02381.21    72 CP067012.1.region004_ORF14:gid:mraZ:pid::loc:13307:13742:strand:+ -            144   2.1e-39  133.5   0.0   1   2   1.1e-23   2.1e-19   69.4   0.0     1    71     1    70     1    71 0.98 MraZ protein, putative antitoxin-like
+MraZ                 PF02381.21    72 CP067012.1.region004_ORF14:gid:mraZ:pid::loc:13307:13742:strand:+ -            144   2.1e-39  133.5   0.0   2   2   1.6e-21   3.1e-17   62.4   0.0     3    68    74   138    72   141 0.88 MraZ protein, putative antitoxin-like
+Methyltransf_5       PF01795.22   309 CP067012.1.region004_ORF15:gid:rsmH:pid::loc:13900:14941:strand:+ -            346  7.6e-103  344.4   0.0   1   1  4.4e-107  8.7e-103  344.2   0.0     3   308    15   332    13   333 0.97 MraW methylase family
+Transpeptidase       PF00905.25   306 CP067012.1.region004_ORF17:gid:pbpB:pid::loc:15849:17790:strand:+ -            646   1.6e-82  277.3   5.2   1   1   3.6e-86   2.3e-82  276.7   5.2     3   305   304   623   302   624 0.94 Penicillin binding protein transpeptidase domain
+PBP_dimer            PF03717.18   181 CP067012.1.region004_ORF17:gid:pbpB:pid::loc:15849:17790:strand:+ -            646   1.3e-12   48.5   4.3   1   1   4.7e-15   3.1e-11   44.1   4.3     2   177    72   258    71   261 0.76 Penicillin-binding Protein dimerisation domain
+Mur_ligase_M         PF08245.15   200 CP067012.1.region004_ORF18:gid:murE:pid::loc:17799:19335:strand:+ -            511   1.9e-52  178.3   0.0   1   1   4.2e-56   2.7e-52  177.7   0.0     1   200   111   316   111   316 0.94 Mur ligase middle domain
+Mur_ligase_C         PF02875.24    91 CP067012.1.region004_ORF18:gid:murE:pid::loc:17799:19335:strand:+ -            511   2.3e-19   69.5   0.5   1   1   5.4e-22   3.6e-18   65.7   0.1     1    88   335   421   335   424 0.96 Mur ligase family, glutamate ligase domain
+Mur_ligase_M         PF08245.15   200 CP067012.1.region004_ORF19:gid:murF:pid::loc:19337:20867:strand:+ -            509   1.9e-42  145.6   0.0   1   1   1.1e-45   7.2e-42  143.7   0.0     1   200   135   330   135   330 0.93 Mur ligase middle domain
+Mur_ligase_C         PF02875.24    91 CP067012.1.region004_ORF19:gid:murF:pid::loc:19337:20867:strand:+ -            509   3.9e-17   62.4   1.2   1   1   3.3e-20   2.2e-16   60.0   0.3     2    82   352   437   351   446 0.93 Mur ligase family, glutamate ligase domain
+Mur_ligase           PF01225.28    94 CP067012.1.region004_ORF19:gid:murF:pid::loc:19337:20867:strand:+ -            509   1.2e-11   44.9   3.8   1   1   2.5e-15   1.6e-11   44.5   0.1     4    69    30   100    28   123 0.79 Mur ligase family, catalytic domain
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      BiG-SCAPE_Results/cache/fasta/CP067012.1.region004.fasta
+# Target file:     /home/salamzade/databases/Pfam/Pfam-A.hmm
+# Option settings: hmmscan --domtblout BiG-SCAPE_Results/cache/domtable/CP067012.1.region004.domtable --cut_tc --cpu 0 /home/salamzade/databases/Pfam/Pfam-A.hmm BiG-SCAPE_Results/cache/fasta/CP067012.1.region004.fasta 
+# Current dir:     /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready
+# Date:            Sat Jun 11 18:41:33 2022
+# [ok]

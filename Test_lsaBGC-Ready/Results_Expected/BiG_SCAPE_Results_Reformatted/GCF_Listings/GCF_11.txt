@@ -1,0 +1,1 @@
+Corynebacterium_tuberculostearicum_GB_GCA_016728365_1	/home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Results/AntiSMASH_BGCs_Retagged/Corynebacterium_tuberculostearicum_GB_GCA_016728365_1/CP068156.1.region004.gbk

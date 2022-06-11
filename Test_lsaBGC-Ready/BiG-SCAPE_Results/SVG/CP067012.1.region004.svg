@@ -1,0 +1,224 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="723.1666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="713.1666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>glkA (AAB_00883)
+Glucokinase</title>
+			<polygon class="glkA (AAB_00883)
+Glucokinase" points="37,25 38,25 38,10 68,40 38,70 38,55 37,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ROK (PF00480)
+"ROK family"</title>
+				<polygon class="PF00480" points="38,28 51,28 63,40 51,52 38,52" stroke-linejoin="round" width="29" height="24" fill="rgb(205,99,210)" stroke="rgb(163,79,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>plsC_2 (AAB_00884)
+1-acyl-sn-glycerol-3-phosphate acyltransferase</title>
+			<polygon class="plsC_2 (AAB_00884)
+1-acyl-sn-glycerol-3-phosphate acyltransferase" points="69,10 93,40 69,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyltransferase (PF01553)
+"Acyltransferase"</title>
+				<polygon class="PF01553" points="71,28 80,28 84,33 84,47 80,52 71,52" stroke-linejoin="round" width="13" height="24" fill="rgb(87,176,216)" stroke="rgb(69,140,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAB_00885)
+hypothetical protein</title>
+			<polygon class=" (AAB_00885)
+hypothetical protein" points="96,25 102,25 102,10 132,40 102,70 102,55 96,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (AAB_00886)
+Polyprenol-phosphate-mannose-dependent alpha-(1-2)-phosphatidylinositol mannoside mannosyltransferase</title>
+			<polygon class=" (AAB_00886)
+Polyprenol-phosphate-mannose-dependent alpha-(1-2)-phosphatidylinositol mannoside mannosyltransferase" points="168,25 159,25 159,10 129,40 159,70 159,55 168,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>GT87 (PF09594)
+"Glycosyltransferase family 87"</title>
+				<polygon class="PF09594" points="138,35 145,28 160,28 160,52 145,52 138,45" stroke-linejoin="round" width="22" height="24" fill="rgb(110,68,183)" stroke="rgb(87,54,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAB_00887)
+3'-5' exoribonuclease.1</title>
+			<polygon class=" (AAB_00887)
+3'-5' exoribonuclease.1" points="171,10 188,40 171,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rv2179c-like (PF16473)
+"3'-5' exoribonuclease Rv2179c-like domain"</title>
+				<polygon class="PF16473" points="171,28 177,28 184,40 177,52 171,52" stroke-linejoin="round" width="15" height="24" fill="rgb(94,49,193)" stroke="rgb(75,39,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>aroG (AAB_00888)
+Phospho-2-dehydro-3-deoxyheptonate aldolase AroG</title>
+			<polygon class="aroG (AAB_00888)
+Phospho-2-dehydro-3-deoxyheptonate aldolase AroG" points="189,25 205,25 205,10 235,40 205,70 205,55 189,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DAHP_synth_2 (PF01474)
+"Class-II DAHP synthetase family"</title>
+				<polygon class="PF01474" points="191,28 219,28 231,40 219,52 191,52" stroke-linejoin="round" width="43" height="24" fill="rgb(126,217,84)" stroke="rgb(100,173,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pknL (AAB_00889)
+Serine/threonine-protein kinase PknL</title>
+			<polygon class="pknL (AAB_00889)
+Serine/threonine-protein kinase PknL" points="280,25 266,25 266,10 236,40 266,70 266,55 280,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pkinase (PF00069)
+"Protein kinase domain"</title>
+				<rect class="PF00069" x="253" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(104,187,65)" stroke="rgb(83,149,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAB_00890)
+DNA-binding protein</title>
+			<polygon class=" (AAB_00890)
+DNA-binding protein" points="280,10 293,40 280,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Rv2175c_C (PF18367)
+"Rv2175c C-terminal domain of unknown function"</title>
+				<polygon class="PF18367" points="287,33 290,40 287,47" stroke-linejoin="round" width="5" height="24" fill="rgb(83,192,90)" stroke="rgb(66,153,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mptA (AAB_00891)
+Alpha-(1->6)-mannopyranosyltransferase A</title>
+			<polygon class="mptA (AAB_00891)
+Alpha-(1->6)-mannopyranosyltransferase A" points="342,25 323,25 323,10 293,40 323,70 323,55 342,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (AAB_00892)
+(2E,6E)-farnesyl diphosphate synthase</title>
+			<polygon class=" (AAB_00892)
+(2E,6E)-farnesyl diphosphate synthase" points="379,25 373,25 373,10 343,40 373,70 373,55 379,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>polyprenyl_synt (PF00348)
+"Polyprenyl synthetase"</title>
+				<polygon class="PF00348" points="347,40 359,28 374,28 374,52 359,52 347,40" stroke-linejoin="round" width="27" height="24" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAB_00893)
+hypothetical protein</title>
+			<polygon class=" (AAB_00893)
+hypothetical protein" points="381,40 399,10 399,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_7 (PF13508)
+"Acetyltransferase (GNAT) domain"</title>
+				<polygon class="PF13508" points="385,40 392,28 393,28 393,52 392,52" stroke-linejoin="round" width="10" height="24" fill="rgb(183,210,60)" stroke="rgb(146,168,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAB_00894)
+hypothetical protein</title>
+			<polygon class=" (AAB_00894)
+hypothetical protein" points="407,10 421,40 407,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HEPN_SAV_6107 (PF18726)
+"SAV_6107-like HEPN"</title>
+				<polygon class="PF18726" points="410,28 412,28 418,40 412,52 410,52" stroke-linejoin="round" width="10" height="24" fill="rgb(131,105,212)" stroke="rgb(104,84,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAB_00895)
+hypothetical protein</title>
+			<polygon class=" (AAB_00895)
+hypothetical protein" points="425,10 438,40 425,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3040 (PF11239)
+"Protein of unknown function (DUF3040)"</title>
+				<polygon class="PF11239" points="425,28 429,28 433,36 433,44 429,52 425,52" stroke-linejoin="round" width="8" height="24" fill="rgb(75,191,84)" stroke="rgb(60,152,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mraZ (AAB_00896)
+Transcriptional regulator MraZ</title>
+			<polygon class="mraZ (AAB_00896)
+Transcriptional regulator MraZ" points="453,10 467,40 453,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MraZ (PF02381)
+"MraZ protein, putative antitoxin-like"</title>
+				<polygon class="PF02381" points="453,28 458,28 460,32 460,48 458,52 453,52" stroke-linejoin="round" width="7" height="24" fill="rgb(183,161,79)" stroke="rgb(146,128,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MraZ (PF02381)
+"MraZ protein, putative antitoxin-like"</title>
+				<polygon class="PF02381" points="460,32 464,40 460,48" stroke-linejoin="round" width="6" height="24" fill="rgb(183,161,79)" stroke="rgb(146,128,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rsmH (AAB_00897)
+Ribosomal RNA small subunit methyltransferase H</title>
+			<polygon class="rsmH (AAB_00897)
+Ribosomal RNA small subunit methyltransferase H" points="473,25 477,25 477,10 507,40 477,70 477,55 473,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_5 (PF01795)
+"MraW methylase family"</title>
+				<polygon class="PF01795" points="474,28 491,28 503,40 491,52 474,52" stroke-linejoin="round" width="32" height="24" fill="rgb(57,116,220)" stroke="rgb(45,92,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ftsL_1 (AAB_00898)
+Cell division protein FtsL</title>
+			<polygon class="ftsL_1 (AAB_00898)
+Cell division protein FtsL" points="507,10 532,40 507,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>pbpB (AAB_00899)
+Penicillin-binding protein PbpB</title>
+			<polygon class="pbpB (AAB_00899)
+Penicillin-binding protein PbpB" points="538,25 572,25 572,10 602,40 572,70 572,55 538,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PBP_dimer (PF03717)
+"Penicillin-binding Protein dimerisation domain"</title>
+				<rect class="PF03717" x="545" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(90,211,197)" stroke="rgb(72,168,157)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Transpeptidase (PF00905)
+"Penicillin binding protein transpeptidase domain"</title>
+				<polygon class="PF00905" points="568,28 586,28 598,40 586,52 568,52" stroke-linejoin="round" width="32" height="24" fill="rgb(161,226,87)" stroke="rgb(128,180,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>murE (AAB_00900)
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2, 6-diaminopimelate ligase</title>
+			<polygon class="murE (AAB_00900)
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2, 6-diaminopimelate ligase" points="603,25 624,25 624,10 654,40 624,70 624,55 603,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mur_ligase_M (PF08245)
+"Mur ligase middle domain"</title>
+				<rect class="PF08245" x="614" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(57,133,195)" stroke="rgb(45,106,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Mur_ligase_C (PF02875)
+"Mur ligase family, glutamate ligase domain"</title>
+				<polygon class="PF02875" points="636,28 637,28 644,35 644,45 637,52 636,52" stroke-linejoin="round" width="8" height="24" fill="rgb(197,75,168)" stroke="rgb(157,60,134)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>murF (AAB_00901)
+UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase</title>
+			<polygon class="murF (AAB_00901)
+UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase" points="654,25 675,25 675,10 705,40 675,70 675,55 654,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mur_ligase (PF01225)
+"Mur ligase family, catalytic domain"</title>
+				<rect class="PF01225" x="656" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(64,188,155)" stroke="rgb(51,150,124)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Mur_ligase_M (PF08245)
+"Mur ligase middle domain"</title>
+				<rect class="PF08245" x="667" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(57,133,195)" stroke="rgb(45,106,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Mur_ligase_C (PF02875)
+"Mur ligase family, glutamate ligase domain"</title>
+				<polygon class="PF02875" points="689,29 698,38 698,42 689,51" stroke-linejoin="round" width="9" height="24" fill="rgb(197,75,168)" stroke="rgb(157,60,134)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

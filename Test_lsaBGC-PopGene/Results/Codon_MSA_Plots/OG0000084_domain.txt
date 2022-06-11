@@ -1,2 +1,0 @@
-domain	domain_index	min_pos	max_pos
-His_Phos_1_|_Histidine phosphatase superfamily (branch 1)	0	5	285

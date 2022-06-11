@@ -1,3 +1,0 @@
-domain	domain_index	min_pos	max_pos
-AMP-binding_|_AMP-binding enzyme	0	191	1383
-AMP-binding_C_|_AMP-binding enzyme C-terminal domain	1	1412	1647

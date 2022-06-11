@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+CP065972.1.region002_ORF27:gid:mrpA_2:pid::loc:29990:32972:strand:+:62:110         WMPSA--NLSFDLRLDGLGALFSLIILGMGALVLVYCWGYFDG--------trrrlamf
+#=GR CP065972.1.region002_ORF27:gid:mrpA_2:pid::loc:29990:32972:strand:+:62:110 PP 88877..79999****************************875........44568889
+CP067012.1.region002_ORF2:gid:mrpA_1:pid::loc:963:3945:strand:-:62:110             WMPSA--NLSFDLRLDGLGALFSLIILGMGALVLIYCWGYFDG--------trrrlamf
+#=GR CP067012.1.region002_ORF2:gid:mrpA_1:pid::loc:963:3945:strand:-:62:110     PP 88877..79999****************************875........44568889
+CP068156.1.region002_ORF25:gid:mrpA_2:pid::loc:30028:33010:strand:+:62:110         WMPSA--NLSFSLRLDGLGALFSLIILGMGALVLVYCWGYFDG--------trrrlamf
+#=GR CP068156.1.region002_ORF25:gid:mrpA_2:pid::loc:30028:33010:strand:+:62:110 PP 88877..79*******************************875........44568889
+#=GC PP_cons                                                                       88877..7999*****************************875................
+#=GC RF                                                                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx........
+//

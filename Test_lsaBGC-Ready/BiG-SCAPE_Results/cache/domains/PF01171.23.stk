@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+CP065972.1.region002_ORF12:gid:tilS:pid::loc:10295:11246:strand:-:30:203         a-VAVGLSGGADSLALMAALVAE----GHEVLALCVDHGLQDGSRAQAERAAEQARKIGARAQVLNVEA-.SAAVGAESMEAAARAARYRALAAACADEGLE-VAVAHTADDQAETLLLGALRGRVT----GMSERSEVEGARVVRPLLCVRRADTEGACAELDLSAWQDPQNADTNFRRVALRR-e
+#=GR CP065972.1.region002_ORF12:gid:tilS:pid::loc:10295:11246:strand:-:30:203 PP 7.789****************99....559**************************************8..556679*********************9887.599*****************8875....*****************************************************8.5
+CP067012.1.region002_ORF18:gid:tilS:pid::loc:22721:23609:strand:+:9:182          t-VAVGLSGGADSLALLAALVAE----GHEVLALCVDHGLQDGSRAQAERAADQARTLGARAQVLSVEA-.DAAAGAESMEAAARAARYRALAAACADEGLE-VAVAHTADDQAETLLLGALRGRV----AGMSERSEVEGARVVRPLLNVRRADTEGACAELGLSVWQDPQNADTNFRRVALRR-e
+#=GR CP067012.1.region002_ORF18:gid:tilS:pid::loc:22721:23609:strand:+:9:182  PP 7.789****************99....559**************************************8..666679*********************9887.599*****************876....6*****************************************************8.5
+CP068156.1.region002_ORF7:gid:tilS:pid::loc:5580:6537:strand:-:30:205            a-VAVGLSGGADSLALMAALVAE----GHEVLALCVDHGLQDGSRAQAERAAEQARKLGARARVLGVAAGvSAAAGAESMEAAARAARYRALAAACADEGLE-VAVAHTADDQAETLLLGALRGRVT----GMSERSEVEGARVVRPLLNVRRADTEGACAELGFSAWQDPQNEDTNFRRVALRR-e
+#=GR CP068156.1.region002_ORF7:gid:tilS:pid::loc:5580:6537:strand:-:30:205    PP 7.789****************99....559**************************************998778889*********************9887.599*****************8875....*****************************************************8.5
+#=GC PP_cons                                                                     ..789****************99....559**************************************99.666679*********************9887.599*****************8875...6*****************************************************8..
+#=GC RF                                                                          .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

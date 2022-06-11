@@ -1,0 +1,484 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1564.2333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1554.2333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>recF (AAC_01074)
+DNA replication and repair protein RecF</title>
+			<polygon class="recF (AAC_01074)
+DNA replication and repair protein RecF" points="22,25 32,25 32,10 62,40 32,70 32,55 22,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SMC_N (PF02463)
+"RecF/RecN/SMC N terminal domain"</title>
+				<polygon class="PF02463" points="22,28 46,28 58,40 46,52 22,52" stroke-linejoin="round" width="37" height="24" fill="rgb(203,65,194)" stroke="rgb(162,52,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAC_01075)
+hypothetical protein</title>
+			<polygon class=" (AAC_01075)
+hypothetical protein" points="62,10 81,40 62,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DciA (PF05258)
+"Dna[CI] antecedent, DciA"</title>
+				<polygon class="PF05258" points="69,28 69,28 77,40 77,40 69,52 69,52" stroke-linejoin="round" width="8" height="24" fill="rgb(179,169,66)" stroke="rgb(143,135,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gyrB (AAC_01076)
+DNA gyrase subunit B</title>
+			<polygon class="gyrB (AAC_01076)
+DNA gyrase subunit B" points="86,25 125,25 125,10 155,40 125,70 125,55 86,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<rect class="PF02518" x="89" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_gyraseB (PF00204)
+"DNA gyrase B"</title>
+				<rect class="PF00204" x="113" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(66,134,179)" stroke="rgb(52,107,143)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Toprim (PF01751)
+"Toprim domain"</title>
+				<polygon class="PF01751" points="132,28 138,28 143,33 143,47 138,52 132,52" stroke-linejoin="round" width="11" height="24" fill="rgb(95,212,145)" stroke="rgb(76,169,116)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_gyraseB_C (PF00986)
+"DNA gyrase B subunit, carboxyl terminus"</title>
+				<polygon class="PF00986" points="147,37 150,40 147,43" stroke-linejoin="round" width="6" height="24" fill="rgb(184,59,116)" stroke="rgb(147,47,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ribZ_2 (AAC_01077)
+Riboflavin transporter RibZ</title>
+			<polygon class="ribZ_2 (AAC_01077)
+Riboflavin transporter RibZ" points="206,25 187,25 187,10 157,40 187,70 187,55 206,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="162,39 173,28 203,28 203,52 173,52 162,41" stroke-linejoin="round" width="41" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAC_01078)
+hypothetical protein</title>
+			<polygon class=" (AAC_01078)
+hypothetical protein" points="208,40 222,10 222,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (AAC_01079)
+hypothetical protein</title>
+			<polygon class=" (AAC_01079)
+hypothetical protein" points="223,40 234,10 234,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (AAC_01080)
+hypothetical protein</title>
+			<polygon class=" (AAC_01080)
+hypothetical protein" points="236,40 244,10 244,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (AAC_01081)
+hypothetical protein</title>
+			<polygon class=" (AAC_01081)
+hypothetical protein" points="245,40 252,10 252,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>gyrA (AAC_01082)
+DNA gyrase subunit A</title>
+			<polygon class="gyrA (AAC_01082)
+DNA gyrase subunit A" points="255,25 310,25 310,10 340,40 310,70 310,55 255,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DNA_topoisoIV (PF00521)
+"DNA gyrase/topoisomerase IV, subunit A"</title>
+				<rect class="PF00521" x="258" y="28" stroke-linejoin="round" width="44" height="24" fill="rgb(196,204,77)" stroke="rgb(156,163,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_gyraseA_C (PF03989)
+"DNA gyrase C-terminal domain, beta-propeller"</title>
+				<rect class="PF03989" x="306" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(52,134,190)" stroke="rgb(41,107,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_gyraseA_C (PF03989)
+"DNA gyrase C-terminal domain, beta-propeller"</title>
+				<rect class="PF03989" x="311" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(52,134,190)" stroke="rgb(41,107,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_gyraseA_C (PF03989)
+"DNA gyrase C-terminal domain, beta-propeller"</title>
+				<rect class="PF03989" x="316" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(52,134,190)" stroke="rgb(41,107,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_gyraseA_C (PF03989)
+"DNA gyrase C-terminal domain, beta-propeller"</title>
+				<polygon class="PF03989" points="321,28 323,28 325,30 325,50 323,52 321,52" stroke-linejoin="round" width="4" height="24" fill="rgb(52,134,190)" stroke="rgb(41,107,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_gyraseA_C (PF03989)
+"DNA gyrase C-terminal domain, beta-propeller"</title>
+				<polygon class="PF03989" points="326,31 330,35 330,45 326,49" stroke-linejoin="round" width="4" height="24" fill="rgb(52,134,190)" stroke="rgb(41,107,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_gyraseA_C (PF03989)
+"DNA gyrase C-terminal domain, beta-propeller"</title>
+				<polygon class="PF03989" points="331,36 335,40 335,40 331,44" stroke-linejoin="round" width="4" height="24" fill="rgb(52,134,190)" stroke="rgb(41,107,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAC_01083)
+hypothetical protein</title>
+			<polygon class=" (AAC_01083)
+hypothetical protein" points="341,10 352,40 341,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3566 (PF12089)
+"Transmembrane domain of unknown function (DUF3566)"</title>
+				<polygon class="PF12089" points="341,28 344,28 349,40 344,52 341,52" stroke-linejoin="round" width="11" height="24" fill="rgb(107,199,89)" stroke="rgb(85,159,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAC_01086)
+hypothetical protein</title>
+			<polygon class=" (AAC_01086)
+hypothetical protein" points="420,25 396,25 396,10 366,40 396,70 396,55 420,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>rve (PF00665)
+"Integrase core domain"</title>
+				<polygon class="PF00665" points="372,38 381,29 381,51 372,42" stroke-linejoin="round" width="9" height="24" fill="rgb(93,64,200)" stroke="rgb(74,51,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_38 (PF13936)
+"Helix-turn-helix domain"</title>
+				<rect class="PF13936" x="395" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(76,213,183)" stroke="rgb(60,170,146)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAC_01087)
+hypothetical protein</title>
+			<polygon class=" (AAC_01087)
+hypothetical protein" points="460,25 454,25 454,10 424,40 454,70 454,55 460,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transposase_mut (PF00872)
+"Transposase, Mutator family"</title>
+				<polygon class="PF00872" points="438,30 440,28 452,28 452,52 440,52 438,50" stroke-linejoin="round" width="14" height="24" fill="rgb(137,187,62)" stroke="rgb(109,149,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAC_01088)
+hypothetical protein</title>
+			<polygon class=" (AAC_01088)
+hypothetical protein" points="492,25 492,25 492,10 462,40 492,70 492,55 492,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>rve (PF00665)
+"Integrase core domain"</title>
+				<polygon class="PF00665" points="469,37 478,28 479,28 479,52 478,52 469,43" stroke-linejoin="round" width="10" height="24" fill="rgb(93,64,200)" stroke="rgb(74,51,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_21 (PF13276)
+"HTH-like domain"</title>
+				<rect class="PF13276" x="482" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(114,195,68)" stroke="rgb(91,156,54)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAC_01089)
+Insertion element IS6110 uncharacterized 12.0 kDa protein</title>
+			<polygon class=" (AAC_01089)
+Insertion element IS6110 uncharacterized 12.0 kDa protein" points="493,40 503,10 503,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_Tnp_1 (PF01527)
+"Transposase"</title>
+				<polygon class="PF01527" points="496,40 500,28 502,28 502,52 500,52" stroke-linejoin="round" width="7" height="24" fill="rgb(85,212,107)" stroke="rgb(68,169,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAC_01090)
+hypothetical protein</title>
+			<polygon class=" (AAC_01090)
+hypothetical protein" points="511,10 532,40 511,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_cobalt (PF09819)
+"ABC-type cobalt transport system, permease component"</title>
+				<polygon class="PF09819" points="515,28 520,28 526,37 526,43 520,52 515,52" stroke-linejoin="round" width="11" height="24" fill="rgb(207,68,78)" stroke="rgb(165,54,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ykoD_1 (AAC_01091)
+Putative HMP/thiamine import ATP-binding protein YkoD</title>
+			<polygon class="ykoD_1 (AAC_01091)
+Putative HMP/thiamine import ATP-binding protein YkoD" points="536,25 580,25 580,10 610,40 580,70 580,55 536,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="536" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="563" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pksJ (AAC_01092)
+Polyketide synthase PksJ</title>
+			<polygon class="pksJ (AAC_01092)
+Polyketide synthase PksJ" points="617,25 646,25 646,10 676,40 646,70 646,55 617,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<polygon class="PF00501" points="618,28 659,28 664,33 664,47 659,52 618,52" stroke-linejoin="round" width="46" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>angR (AAC_01093)
+Anguibactin system regulator</title>
+			<polygon class="angR (AAC_01093)
+Anguibactin system regulator" points="676,25 856,25 856,10 886,40 856,70 856,55 676,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="689" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="733" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="785" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="798" y="28" stroke-linejoin="round" width="43" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="847" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Thioesterase (PF00975)
+"Thioesterase domain"</title>
+				<polygon class="PF00975" points="857,28 870,28 881,39 881,41 870,52 857,52" stroke-linejoin="round" width="24" height="24" fill="rgb(207,80,138)" stroke="rgb(165,63,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAC_01094)
+hypothetical protein</title>
+			<polygon class=" (AAC_01094)
+hypothetical protein" points="887,25 896,25 896,10 926,40 896,70 896,55 887,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>drrA_1 (AAC_01095)
+Daunorubicin/doxorubicin resistance ATP-binding protein DrrA</title>
+			<polygon class="drrA_1 (AAC_01095)
+Daunorubicin/doxorubicin resistance ATP-binding protein DrrA" points="926,25 930,25 930,10 960,40 930,70 930,55 926,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="931,28 944,28 945,29 945,51 944,52 931,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>drrB (AAC_01096)
+Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB</title>
+			<polygon class="drrB (AAC_01096)
+Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB" points="961,10 986,40 961,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane (PF01061)
+"ABC-2 type transporter"</title>
+				<polygon class="PF01061" points="961,28 972,28 981,39 981,41 972,52 961,52" stroke-linejoin="round" width="20" height="24" fill="rgb(139,217,106)" stroke="rgb(111,173,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>drrC (AAC_01097)
+putative doxorubicin resistance ABC transporter permease protein DrrC</title>
+			<polygon class="drrC (AAC_01097)
+putative doxorubicin resistance ABC transporter permease protein DrrC" points="986,10 1010,40 986,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane (PF01061)
+"ABC-2 type transporter"</title>
+				<polygon class="PF01061" points="986,28 997,28 1006,40 1006,40 997,52 986,52" stroke-linejoin="round" width="20" height="24" fill="rgb(139,217,106)" stroke="rgb(111,173,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rebM (AAC_01098)
+Demethylrebeccamycin-D-glucose O-methyltransferase</title>
+			<polygon class="rebM (AAC_01098)
+Demethylrebeccamycin-D-glucose O-methyltransferase" points="1013,10 1035,40 1013,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_23 (PF13489)
+"Methyltransferase domain"</title>
+				<polygon class="PF13489" points="1015,28 1023,28 1032,40 1032,40 1023,52 1015,52" stroke-linejoin="round" width="17" height="24" fill="rgb(188,189,66)" stroke="rgb(150,151,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>irtA (AAC_01099)
+Iron import ATP-binding/permease protein IrtA</title>
+			<polygon class="irtA (AAC_01099)
+Iron import ATP-binding/permease protein IrtA" points="1035,25 1064,25 1064,10 1094,40 1064,70 1064,55 1035,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="1037" y="28" stroke-linejoin="round" width="26" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="1070,28 1078,28 1084,34 1084,46 1078,52 1070,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>irtB (AAC_01100)
+Iron import ATP-binding/permease protein IrtB</title>
+			<polygon class="irtB (AAC_01100)
+Iron import ATP-binding/permease protein IrtB" points="1094,25 1121,25 1121,10 1151,40 1121,70 1121,55 1094,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="1095" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="1128,28 1135,28 1143,36 1143,44 1135,52 1128,52" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAC_01101)
+hypothetical protein</title>
+			<polygon class=" (AAC_01101)
+hypothetical protein" points="1153,40 1158,10 1158,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (AAC_01102)
+hypothetical protein</title>
+			<polygon class=" (AAC_01102)
+hypothetical protein" points="1159,40 1164,10 1164,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (AAC_01103)
+hypothetical protein</title>
+			<polygon class=" (AAC_01103)
+hypothetical protein" points="1184,40 1194,10 1194,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DEDD_Tnp_IS110 (PF01548)
+"Transposase"</title>
+				<polygon class="PF01548" points="1187,40 1191,28 1193,28 1193,52 1191,52" stroke-linejoin="round" width="7" height="24" fill="rgb(59,200,207)" stroke="rgb(47,160,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yjbR (AAC_01104)
+putative protein YjbR</title>
+			<polygon class="yjbR (AAC_01104)
+putative protein YjbR" points="1204,10 1218,40 1204,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YjbR (PF04237)
+"YjbR"</title>
+				<polygon class="PF04237" points="1207,28 1209,28 1214,40 1209,52 1207,52" stroke-linejoin="round" width="9" height="24" fill="rgb(66,212,177)" stroke="rgb(52,169,141)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mhqR (AAC_01105)
+HTH-type transcriptional regulator MhqR</title>
+			<polygon class="mhqR (AAC_01105)
+HTH-type transcriptional regulator MhqR" points="1221,10 1237,40 1221,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MarR (PF01047)
+"MarR family"</title>
+				<polygon class="PF01047" points="1225,28 1227,28 1231,35 1231,45 1227,52 1225,52" stroke-linejoin="round" width="6" height="24" fill="rgb(60,185,86)" stroke="rgb(48,148,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAC_01106)
+Putative 3-methyladenine DNA glycosylase</title>
+			<polygon class=" (AAC_01106)
+Putative 3-methyladenine DNA glycosylase" points="1237,40 1255,10 1255,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pur_DNA_glyco (PF02245)
+"Methylpurine-DNA glycosylase (MPG)"</title>
+				<polygon class="PF02245" points="1241,40 1248,28 1254,28 1254,52 1248,52" stroke-linejoin="round" width="16" height="24" fill="rgb(224,94,125)" stroke="rgb(179,75,100)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pgdA (AAC_01107)
+Peptidoglycan-N-acetylglucosamine deacetylase</title>
+			<polygon class="pgdA (AAC_01107)
+Peptidoglycan-N-acetylglucosamine deacetylase" points="1256,40 1284,10 1284,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polysacc_deac_1 (PF01522)
+"Polysaccharide deacetylase"</title>
+				<polygon class="PF01522" points="1263,37 1272,28 1275,28 1275,52 1272,52 1263,43" stroke-linejoin="round" width="12" height="24" fill="rgb(56,221,58)" stroke="rgb(44,176,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAC_01109)
+hypothetical protein</title>
+			<polygon class=" (AAC_01109)
+hypothetical protein" points="1301,10 1309,40 1301,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (AAC_01110)
+Putative acetyltransferase OgpAT</title>
+			<polygon class=" (AAC_01110)
+Putative acetyltransferase OgpAT" points="1309,40 1324,10 1324,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="1312,40 1318,28 1322,28 1322,52 1318,52" stroke-linejoin="round" width="12" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAC_01111)
+hypothetical protein</title>
+			<polygon class=" (AAC_01111)
+hypothetical protein" points="1328,40 1334,10 1334,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (AAC_01112)
+hypothetical protein</title>
+			<polygon class=" (AAC_01112)
+hypothetical protein" points="1339,40 1363,10 1363,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>metF (AAC_01113)
+5,10-methylenetetrahydrofolate reductase</title>
+			<polygon class="metF (AAC_01113)
+5,10-methylenetetrahydrofolate reductase" points="1374,25 1375,25 1375,10 1405,40 1375,70 1375,55 1374,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MTHFR (PF02219)
+"Methylenetetrahydrofolate reductase"</title>
+				<polygon class="PF02219" points="1375,28 1388,28 1400,40 1388,52 1375,52" stroke-linejoin="round" width="28" height="24" fill="rgb(209,76,219)" stroke="rgb(167,60,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>metE (AAC_01114)
+5-methyltetrahydropteroyltriglutamate-- homocysteine methyltransferase</title>
+			<polygon class="metE (AAC_01114)
+5-methyltetrahydropteroyltriglutamate-- homocysteine methyltransferase" points="1404,25 1449,25 1449,10 1479,40 1449,70 1449,55 1404,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Meth_synt_1 (PF08267)
+"Cobalamin-independent synthase, N-terminal domain"</title>
+				<rect class="PF08267" x="1404" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(102,88,199)" stroke="rgb(81,70,159)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Meth_synt_2 (PF01717)
+"Cobalamin-independent synthase, Catalytic domain"</title>
+				<polygon class="PF01717" points="1446,28 1463,28 1475,40 1463,52 1446,52" stroke-linejoin="round" width="32" height="24" fill="rgb(163,221,87)" stroke="rgb(130,176,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAC_01115)
+putative membrane protein</title>
+			<polygon class=" (AAC_01115)
+putative membrane protein" points="1482,40 1503,10 1503,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SNARE_assoc (PF09335)
+"SNARE associated Golgi protein"</title>
+				<polygon class="PF09335" points="1486,40 1495,28 1498,28 1498,52 1495,52 1486,40" stroke-linejoin="round" width="12" height="24" fill="rgb(145,188,82)" stroke="rgb(116,150,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

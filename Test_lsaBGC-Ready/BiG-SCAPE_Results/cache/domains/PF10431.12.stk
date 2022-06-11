@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+CP065972.1.region001_ORF5:gid:clpC1:pid::loc:2767:5530:strand:-:743:823            LTQEQIVEMVELLIGRVAKQLDERDMGIELTQKAKDLLAKRGFDPVLGARPLRRTIQREIEDQLSEKILFGEIGAGEIITV
+#=GR CP065972.1.region001_ORF5:gid:clpC1:pid::loc:2767:5530:strand:-:743:823    PP 89***********************************************************************99998876
+CP068156.1.region001_ORF4:gid:clpC1:pid::loc:2082:4851:strand:-:745:825            LTQEQIVEMVELLIGRVAKQLDERDMGIELTQKAKDLLAKRGFDPVLGARPLRRTIQREIEDQLSEKILFGEIGAGEIITV
+#=GR CP068156.1.region001_ORF4:gid:clpC1:pid::loc:2082:4851:strand:-:745:825    PP 89***********************************************************************99998876
+CP067012.1.region003_ORF12:gid:clpC1:pid::loc:14967:17718:strand:+:741:821         LTQEQIVEMVELLIGRVAKQLEERDMGIELTDKAKNLLAKRGFDPVLGARPLRRTIQREIEDQLSEKILFGEIGAGEIITV
+#=GR CP067012.1.region003_ORF12:gid:clpC1:pid::loc:14967:17718:strand:+:741:821 PP 89***********************************************************************99998876
+#=GC PP_cons                                                                       89***********************************************************************99998876
+#=GC RF                                                                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

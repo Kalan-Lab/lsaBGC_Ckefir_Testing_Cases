@@ -1,0 +1,2 @@
+domain	domain_index	min_pos	max_pos
+Acyl_transf_3_|_Acyltransferase family	0	43	1028

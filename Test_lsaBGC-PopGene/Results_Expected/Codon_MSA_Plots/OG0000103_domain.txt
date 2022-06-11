@@ -1,0 +1,4 @@
+domain	domain_index	min_pos	max_pos
+DUF5129_|_Domain of unknown function (DUF5129)	0	125	816
+DUF5129_|_Domain of unknown function (DUF5129)	0	835	1002
+DUF5129_|_Domain of unknown function (DUF5129)	0	1009	1037

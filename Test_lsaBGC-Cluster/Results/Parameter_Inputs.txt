@@ -1,9 +1,0 @@
-BGC Listing File: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/All_AntiSMASH_BGCs.txt
-OrthoFinder Orthogroups.csv File: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Orthogroups.tsv
-Output Directory: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/
-Cores: 4
-MCL Inflation Parameter: 1.4
-Jaccard Similarity Cutoff: 20.0
-Syntenic Correlation Coefficient Cutoff: 0.7
-Run Inflation Parameter Tests?: False
-Split BGCs into Annotation Categories First Prior to Clustering?: False

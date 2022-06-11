@@ -1,0 +1,2 @@
+domain	domain_index	min_pos	max_pos
+Carboxyl_trans_|_Carboxyl transferase domain	0	103	1538

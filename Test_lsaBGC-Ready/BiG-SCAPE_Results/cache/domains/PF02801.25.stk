@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+CP068156.1.region003_ORF16:gid:ppsA:pid::loc:20000:24707:strand:-:349:467         LAVIKGSAVNSDG-HSNGLTAPNPEAQEDVLRRAYADAGVNPQDVDYIEAHGTGTILGDPIEASALGRVLGAGRGvETPILLGSAKTNIGHSESAAGVVGLIKVIQAMRNDVIPANINY-s
+#=GR CP068156.1.region003_ORF16:gid:ppsA:pid::loc:20000:24707:strand:-:349:467 PP 69*********99.***********************************************************99*99***************************************98.6
+CP067012.1.region001_ORF15:gid:ppsA:pid::loc:20000:24704:strand:+:348:466         LAVIKGSAVNSDG-HSNGLTAPNPEAQEDVLRRAYADAGVNPQDVDYIEAHGTGTILGDPIEASALGRVLGAGRGaDAPILLGSAKTNIGHSESAAGVVGLIKVIQAMRNDVIPANINY-s
+#=GR CP067012.1.region001_ORF15:gid:ppsA:pid::loc:20000:24704:strand:+:348:466 PP 69*********99.**********************************************************99999****************************************98.6
+CP065972.1.region003_ORF19:gid:ppsA:pid::loc:20000:24707:strand:-:349:467         LAVLKGSAVNSDG-HSNGLTAPNPEAQEDVLRRAYADAGVNPQDVDYIEAHGTGTILGDPIEASALGRVLGAGRRvETPILLGSAKTNIGHSESAAGVVGLIKVIQAMRNDVIPANINY-s
+#=GR CP065972.1.region003_ORF19:gid:ppsA:pid::loc:20000:24707:strand:-:349:467 PP 69*********99.**************************************************************99***************************************98.6
+#=GC PP_cons                                                                      69*********99.***********************************************************99.99***************************************98..
+#=GC RF                                                                           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

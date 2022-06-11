@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+CP068156.1.region003_ORF12:gid::pid::loc:16938:17955:strand:+:5:314         ..lrl-IASLIVLLVLVYVFRDELDFlREGFSRLSHSNPAAIALVVIASIVAVLAMGEVMRLLIRAGGVKVPASETAALTLAANAWSTTLPAGPAFSAILTFYVQRTWGASVMLCGWFFVLSSAISTMWLVLIGLGGVLFLNAD------MALWSLIGTLVLMLALSGGLFWLTNHPDTIIRWLNRQKLIKGSKREALVD
+#=GR CP068156.1.region003_ORF12:gid::pid::loc:16938:17955:strand:+:5:314 PP ..*95.55666667777777667787788888899999*999999999999988777788********************************999888888999999***********************************99......999*******************************9999987666655544
+CP067012.1.region001_ORF19:gid::pid::loc:26757:27774:strand:-:3:314         nwlrl-ILSLIVLLVLVYVFRDELDFlREGFSRLSNSNPAAIALVIVASIAAVLAMGEVMRLLIRAGGVKVPASETAALTLAANAWSTTLPAGPAFSAILTFYVQRTWGASVMLCGWFFVLSSAISTMWLVLIGLGGVLFLNAD------MALWSLIGTLVLMLALSGGLFWLTNHPDTIIRWLNRQKLIKGSKREALVD
+#=GR CP067012.1.region001_ORF19:gid::pid::loc:26757:27774:strand:-:3:314 PP 98885.566777777777777777777788888888889999999998999977777778********************************999888888999999***********************************99......999*******************************9999987666655544
+CP065972.1.region003_ORF15:gid::pid::loc:16938:17955:strand:+:4:314         wlrli--TSLIVLLVLVYVFRDELDFlREGFSRLSDSNPAAIALVIIAAIVAVLAMGEVMRLLIRAGGVKVPASETAALTLAANAWSTTLPAGPAFSAILTFYVQRTWGASVMLCGWFFVLSSAISTMWLVLIGLGGVLFLNAD------MALWSLIGTLVLMLALSGGLFWLTNHPDTIIRWLNRQKLIKGSKREALVD
+#=GR CP065972.1.region003_ORF15:gid::pid::loc:16938:17955:strand:+:4:314 PP 99964..44555566666665556655666666666679888888888888877666678********************************999888888999999***********************************99......999*******************************9999987666655544
+#=GC PP_cons                                                                ......55666667777777666776.777778888889999999999999977777778********************************999888888999999***********************************99......999*******************************9999987666655544
+#=GC RF                                                                     .....xxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CP068156.1.region003_ORF12:gid::pid::loc:16938:17955:strand:+:5:314         --QvknleEVHLTRRQFGWVSFYSLANRLIDMVSLWGCVWAVTGHLPALHAGedtttmagvaLAYLTAKLAGSAQVTPAGLGTVEAAIIATLVATGMTAVDATGAAIIYRLISFALITIIG
+#=GR CP068156.1.region003_ORF12:gid::pid::loc:16938:17955:strand:+:5:314 PP ..25599966666789*******************************9999999999999999999999**************************************************99
+CP067012.1.region001_ORF19:gid::pid::loc:26757:27774:strand:-:3:314         --QvknleEVHLTRRQFAWVSFYSLANRLIDMVSLWGCVWAVTGHLPALHAGedtttmagvaLAYLTAKLAGSAQVTPAGLGTVEAAIIATLVATGMTAVDATGAAIIYRLISFALITIIG
+#=GR CP067012.1.region001_ORF19:gid::pid::loc:26757:27774:strand:-:3:314 PP ..25599966666789*******************************9999999999999999999999**************************************************99
+CP065972.1.region003_ORF15:gid::pid::loc:16938:17955:strand:+:4:314         --QvknleEVHLTRRQFSWVSFYSLANRLIDMVSLWGCVWAVTGHLPALHAGedtttmagvaLAYLTAKLAGSAQVTPAGLGTVEAAIIATLVATGMTAVDATGAAIIYRLISFALITIIG
+#=GR CP065972.1.region003_ORF15:gid::pid::loc:16938:17955:strand:+:4:314 PP ..25599966666789*******************************9999999999999999999999**************************************************99
+#=GC PP_cons                                                                ..2.....66666789*******************************99999..........9999999**************************************************99
+#=GC RF                                                                     xxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

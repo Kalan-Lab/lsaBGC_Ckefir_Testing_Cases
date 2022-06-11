@@ -1,3 +1,0 @@
-domain	domain_index	min_pos	max_pos
-NAD_binding_8_|_NAD(P)-binding Rossmann-like domain	0	22	230
-GLF_|_UDP-galactopyranose mutase	1	454	1091

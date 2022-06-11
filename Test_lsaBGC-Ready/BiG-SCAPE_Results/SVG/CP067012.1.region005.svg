@@ -1,0 +1,153 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="435.6333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="425.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title> (AAB_02132)
+hypothetical protein</title>
+			<polygon class=" (AAB_02132)
+hypothetical protein" points="19,10 37,40 19,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lcdH (AAB_02133)
+L-carnitine dehydrogenase</title>
+			<polygon class="lcdH (AAB_02133)
+L-carnitine dehydrogenase" points="34,40 54,10 54,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>3HCDH (PF00725)
+"3-hydroxyacyl-CoA dehydrogenase, C-terminal domain"</title>
+				<polygon class="PF00725" points="41,36 46,28 49,28 49,52 46,52 41,44" stroke-linejoin="round" width="8" height="24" fill="rgb(180,78,60)" stroke="rgb(144,62,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAB_02134)
+hypothetical protein</title>
+			<polygon class=" (AAB_02134)
+hypothetical protein" points="62,40 67,10 67,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>3HCDH_N (PF02737)
+"3-hydroxyacyl-CoA dehydrogenase, NAD binding domain"</title>
+				<polygon class="PF02737" points="65,40 66,34 66,46" stroke-linejoin="round" width="4" height="24" fill="rgb(212,65,199)" stroke="rgb(169,52,159)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ddc (AAB_02135)
+L-2,4-diaminobutyrate decarboxylase</title>
+			<polygon class="ddc (AAB_02135)
+L-2,4-diaminobutyrate decarboxylase" points="80,25 99,25 99,10 129,40 99,70 99,55 80,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyridoxal_deC (PF00282)
+"Pyridoxal-dependent decarboxylase conserved domain"</title>
+				<polygon class="PF00282" points="86,28 113,28 121,36 121,44 113,52 86,52" stroke-linejoin="round" width="35" height="24" fill="rgb(100,218,166)" stroke="rgb(80,174,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucD (AAB_02136)
+L-lysine N6-monooxygenase</title>
+			<polygon class="iucD (AAB_02136)
+L-lysine N6-monooxygenase" points="131,25 146,25 146,10 176,40 146,70 146,55 131,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lys_Orn_oxgnase (PF13434)
+"L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase"</title>
+				<polygon class="PF13434" points="133,28 159,28 167,36 167,44 159,52 133,52" stroke-linejoin="round" width="34" height="24" fill="rgb(81,213,119)" stroke="rgb(64,170,95)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucC (AAB_02137)
+Aerobactin synthase</title>
+			<polygon class="iucC (AAB_02137)
+Aerobactin synthase" points="176,25 228,25 228,10 258,40 228,70 228,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_8 (PF13523)
+"Acetyltransferase (GNAT) domain"</title>
+				<rect class="PF13523" x="178" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(106,224,203)" stroke="rgb(84,179,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="212" y="28" stroke-linejoin="round" width="25" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="239,28 242,28 254,40 254,40 242,52 239,52" stroke-linejoin="round" width="15" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nirC (AAB_02138)
+Nitrite transporter NirC</title>
+			<polygon class="nirC (AAB_02138)
+Nitrite transporter NirC" points="260,40 286,10 286,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Form_Nir_trans (PF01226)
+"Formate/nitrite transporter"</title>
+				<polygon class="PF01226" points="264,40 274,28 285,28 285,52 274,52" stroke-linejoin="round" width="24" height="24" fill="rgb(206,55,143)" stroke="rgb(164,44,114)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yxlF_4 (AAB_02139)
+putative ABC transporter ATP-binding protein YxlF</title>
+			<polygon class="yxlF_4 (AAB_02139)
+putative ABC transporter ATP-binding protein YxlF" points="291,10 313,40 291,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="293,28 301,28 305,34 305,46 301,52 293,52" stroke-linejoin="round" width="12" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title> (AAB_02140)
+hypothetical protein</title>
+			<polygon class=" (AAB_02140)
+hypothetical protein" points="315,25 323,25 323,10 353,40 323,70 323,55 315,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title> (AAB_02141)
+hypothetical protein</title>
+			<polygon class=" (AAB_02141)
+hypothetical protein" points="357,10 376,40 357,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>rplE (AAB_02142)
+50S ribosomal protein L5</title>
+			<polygon class="rplE (AAB_02142)
+50S ribosomal protein L5" points="378,40 396,10 396,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_L5_C (PF00673)
+"ribosomal L5P family C-terminus"</title>
+				<polygon class="PF00673" points="382,40 387,32 387,48" stroke-linejoin="round" width="9" height="24" fill="rgb(105,205,77)" stroke="rgb(84,164,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Ribosomal_L5 (PF00281)
+"Ribosomal protein L5"</title>
+				<polygon class="PF00281" points="387,32 389,28 392,28 392,52 389,52 387,48" stroke-linejoin="round" width="5" height="24" fill="rgb(57,229,170)" stroke="rgb(45,183,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rplX (AAB_02143)
+50S ribosomal protein L24</title>
+			<polygon class="rplX (AAB_02143)
+50S ribosomal protein L24" points="397,40 407,10 407,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ribosomal_L24 (PF17136)
+"Ribosomal proteins 50S L24/mitochondrial 39S L24"</title>
+				<polygon class="PF17136" points="400,40 403,31 403,49" stroke-linejoin="round" width="6" height="24" fill="rgb(203,153,100)" stroke="rgb(162,122,80)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KOW (PF00467)
+"KOW motif"</title>
+				<polygon class="PF00467" points="403,31 404,28 406,28 406,52 404,52 403,49" stroke-linejoin="round" width="3" height="24" fill="rgb(76,136,191)" stroke="rgb(60,108,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rplN (AAB_02144)
+50S ribosomal protein L14</title>
+			<polygon class="rplN (AAB_02144)
+50S ribosomal protein L14" points="407,40 419,10 419,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ribosomal_L14 (PF00238)
+"Ribosomal protein L14p/L23e"</title>
+				<polygon class="PF00238" points="410,40 415,28 419,28 419,52 415,52" stroke-linejoin="round" width="12" height="24" fill="rgb(199,87,200)" stroke="rgb(159,69,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

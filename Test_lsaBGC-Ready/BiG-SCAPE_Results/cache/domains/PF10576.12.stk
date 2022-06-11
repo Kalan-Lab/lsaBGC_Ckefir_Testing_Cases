@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+CP065972.1.region001_ORF3:gid:mutY:pid::loc:1483:2344:strand:+:183:199            CTAKNPSCEQCPLRASC
+#=GR CP065972.1.region001_ORF3:gid:mutY:pid::loc:1483:2344:strand:+:183:199    PP **************999
+CP068156.1.region001_ORF2:gid:mutY:pid::loc:798:1659:strand:+:183:199             CTAKNPSCEQCPLRASC
+#=GR CP068156.1.region001_ORF2:gid:mutY:pid::loc:798:1659:strand:+:183:199     PP **************999
+CP067012.1.region003_ORF15:gid:mutY:pid::loc:19297:20158:strand:-:183:199         CTAKNPACEQCPLRTSC
+#=GR CP067012.1.region003_ORF15:gid:mutY:pid::loc:19297:20158:strand:-:183:199 PP *************9888
+#=GC PP_cons                                                                      **************998
+#=GC RF                                                                           xxxxxxxxxxxxxxxxx
+//

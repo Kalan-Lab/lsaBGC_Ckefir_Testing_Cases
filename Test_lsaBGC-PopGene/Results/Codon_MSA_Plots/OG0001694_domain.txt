@@ -1,2 +1,0 @@
-domain	domain_index	min_pos	max_pos
-Esterase_|_Putative esterase	0	187	983

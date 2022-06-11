@@ -1,3 +1,0 @@
-domain	domain_index	min_pos	max_pos
-Amidase_2_|_N-acetylmuramoyl-L-alanine amidase	0	770	1224
-LGFP_|_LGFP repeat	1	1649	1788
