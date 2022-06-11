@@ -6,6 +6,23 @@ To test each command please change-directory to the subdirectory and use bash to
 
 Each command is specified to use 4 cores/threads and time estimates are based on this. We ran tests on a server running Ubuntu 18.04.2 with AMD EPYC 7451 24-Core Processors.
 
+## `lsaBGC-Ready.py`
+
+```console
+# Noe, assumes you have lsaBGC properly installed 
+# and the conda environment activated
+
+cd /path/to/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/
+bash test_lsaBGC-Ready.sh &> log.txt
+```
+
+Results from the `time` function in Unix:
+```
+real    1m14.094s
+user    3m35.410s
+sys     0m44.948s
+```
+
 ## `lsaBGC-Cluster.py`
 
 ```console
