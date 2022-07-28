@@ -1,9 +1,10 @@
-GCF Listing File: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Expansion/GCF_1.txt
-OrthoFinder Orthogroups.csv File: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Expansion/Orthogroups.tsv
-Listing File of Prokka Annotation Files for Initial Set of Samples: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Expansion/Primary_Sample_Annotation_Files.txt
-Listing File of Prokka Annotation Files for Expansion/Additional Set of Samples: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Expansion/Additional_Sample_Annotation_Files.txt
-Output Directory: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Expansion/Results/
+GCF Listing File: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Expansion/GCF_1.txt
+OrthoFinder Orthogroups.csv File: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Expansion/Orthogroups.tsv
+Listing File of Prokka Annotation Files for Initial Set of Samples: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Expansion/Primary_Sample_Annotation_Files.txt
+Listing File of Prokka Annotation Files for Expansion/Additional Set of Samples: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Expansion/Additional_Sample_Annotation_Files.txt
+Output Directory: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Expansion/Results/
 GCF Identifier: GCF_1
+BGC Prediction Software: ANTISMASH
 Cores: 4
 Minimum Size of Segments: 5
 Minimum Core Size of Segments: 3
@@ -13,3 +14,6 @@ HMM Transition Probability from Background to Background: 0.9
 Run Expansion in Quick Mode?: True
 Skip rewriting Expanded OrthoGroup CSV File?: False
 Pickle File with Annotation Data in Expansion Listing for Quick Loading: Additional_Sample_Annotation_Files.pkl
+Proto-Core Set of Homolog Group(s) Manually Specified by User.: []
+No Rule-Based/Proto-Core Homolog Group Required for GCF Reporting?: False
+All BGC instances for GCF should be Treated as Primary?: False

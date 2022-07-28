@@ -1,5 +1,5 @@
 domain	domain_index	min_pos	max_pos
-p450_|_Cytochrome P450	0	65	1412
-Flavodoxin_1_|_Flavodoxin	1	1562	1955
-FAD_binding_1_|_FAD binding domain	2	2165	2708
-NAD_binding_1_|_Oxidoreductase NAD-binding domain	3	2804	3131
+p450_|_Cytochrome P450	0	63	1412
+Flavodoxin_1_|_Flavodoxin	1	1560	1955
+FAD_binding_1_|_FAD binding domain	2	2163	2708
+NAD_binding_1_|_Oxidoreductase NAD-binding domain	3	2802	3131

@@ -1,5 +1,5 @@
 domain	domain_index	min_pos	max_pos
-HTH_21_|_HTH-like domain	0	62	224
+HTH_21_|_HTH-like domain	0	60	224
 rve_|_Integrase core domain	1	331	627
-rve_|_Integrase core domain	1	793	793
-rve_2_|_Integrase core domain	2	614	779
+rve_|_Integrase core domain	1	793	795
+rve_2_|_Integrase core domain	2	612	780

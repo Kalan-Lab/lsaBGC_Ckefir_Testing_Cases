@@ -1,2 +1,2 @@
 domain	domain_index	min_pos	max_pos
-Methyltransf_4_|_Putative methyltransferase	0	250	752
+Methyltransf_4_|_Putative methyltransferase	0	249	753

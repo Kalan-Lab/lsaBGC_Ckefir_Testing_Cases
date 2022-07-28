@@ -1,10 +1,11 @@
-Primary Genome Listing File: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Primary_Genomes_Listing.txt
-AntiSMASH Results Listing File: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Primary_AntiSMASH_BGCs.txt
-Output Directory: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Results/
-Additional Genome Listing File: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Additional_Genomes_Listing.txt
-Primary Genomes are Genbanks with CDS Annotation Features: False
-BiG-SCAPE Results Directory: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/BiG-SCAPE_Results/
-Perform KOfam Annotation?: False
+Primary Genome Listing File: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Primary_Genomes_Listing.txt
+BGC Predictions Genbanks Listing File: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Primary_AntiSMASH_BGCs.txt
+Output Directory: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Results/
+Additional Genome Listing File: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Additional_Genomes_Listing.txt
+BGC Prediction Software: ANTISMASH
+OrthoFinder Mode: BGC_ONLY
+BiG-SCAPE Results Directory: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/BiG-SCAPE_Results/
+Perform KOfam/PGAP Annotation?: False
 Run lsaBGC-Cluster Analysis?: False
 Run lsaBGC-AutoExpansion Analysis?: False
 Keep Intermediate Files/Directories?: False

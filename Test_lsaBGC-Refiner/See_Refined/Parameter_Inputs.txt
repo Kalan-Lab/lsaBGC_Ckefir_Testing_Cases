@@ -1,9 +1,10 @@
-GCF Listing File: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Refiner/Results/GCF_1.txt
-OrthoFinder Orthogroups.csv File: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Refiner/Orthogroups.tsv
-Output Directory: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Refiner/See_Refined/
+GCF Listing File: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/To_Update/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Refiner/Results/GCF_1.txt
+OrthoFinder Orthogroups.csv File: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/To_Update/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Refiner/Orthogroups.tsv
+Output Directory: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/To_Update/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Refiner/See_Refined/
 GCF Identifier: GCF_X
 Species Phylogeny Newick File: None
 Sample Retention Set: 4
 Cores: None
+BGC Prediction Identifier: ANTISMASH
 Create GCF Phylogeny?: True
 Use only SCC Homolog Groups for Creating GCF Phylogeny?: False

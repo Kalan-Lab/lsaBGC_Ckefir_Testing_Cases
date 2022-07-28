@@ -1,2 +1,2 @@
 domain	domain_index	min_pos	max_pos
-HTH_28_|_Helix-turn-helix domain	0	203	359
+HTH_28_|_Helix-turn-helix domain	0	201	359

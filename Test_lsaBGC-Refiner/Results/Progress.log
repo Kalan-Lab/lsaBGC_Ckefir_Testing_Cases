@@ -1,12 +1,12 @@
-2022-03-18 16:42 - INFO - Saving parameters for future provedance.
-2022-03-18 16:42 - INFO - Done saving parameters!
-2022-03-18 16:42 - INFO - Processing BGC Genbanks from GCF listing file.
-2022-03-18 16:42 - INFO - Incorporating genbank GCF_1_BGCs_from_Completed_Genomes/CP068156.1.region003.gbk for sample Corynebacterium_tuberculostearicum_GB_GCA_016728365_1 into analysis.
-2022-03-18 16:42 - INFO - Incorporating genbank GCF_1_BGCs_from_Completed_Genomes/CP065972.1.region003.gbk for sample Corynebacterium_aurimucosum_E_GB_GCA_016127015_1 into analysis.
-2022-03-18 16:42 - INFO - Incorporating genbank GCF_1_BGCs_from_Completed_Genomes/CP067012.1.region001.gbk for sample Corynebacterium_kefirresidentii_GB_GCA_016599755_1 into analysis.
-2022-03-18 16:42 - INFO - Successfully parsed BGC Genbanks and associated with unique IDs.
-2022-03-18 16:42 - INFO - Starting to parse OrthoFinder homolog vs sample information.
-2022-03-18 16:42 - INFO - Successfully inputted homolog information from OrthoFinder into variables of Pan object!
-2022-03-18 16:42 - INFO - Successfully parsed homolog matrix.
-2022-03-18 16:42 - INFO - Beginning refinement of BGCs.
-2022-03-18 16:42 - INFO - Refinement of BGC Genbanks complete!
+2022-07-28 11:58 - INFO - Saving parameters for future records.
+2022-07-28 11:58 - INFO - Done saving parameters!
+2022-07-28 11:58 - INFO - Processing BGC Genbanks from GCF listing file.
+2022-07-28 11:58 - INFO - Incorporating genbank GCF_1_BGCs_from_Completed_Genomes/CP068156.1.region003.gbk for sample Corynebacterium_tuberculostearicum_GB_GCA_016728365_1 into analysis.
+2022-07-28 11:58 - INFO - Incorporating genbank GCF_1_BGCs_from_Completed_Genomes/CP065972.1.region003.gbk for sample Corynebacterium_aurimucosum_E_GB_GCA_016127015_1 into analysis.
+2022-07-28 11:58 - INFO - Incorporating genbank GCF_1_BGCs_from_Completed_Genomes/CP067012.1.region001.gbk for sample Corynebacterium_kefirresidentii_GB_GCA_016599755_1 into analysis.
+2022-07-28 11:58 - INFO - Successfully parsed BGC Genbanks and associated with unique IDs.
+2022-07-28 11:58 - INFO - Starting to parse OrthoFinder homolog vs sample information.
+2022-07-28 11:58 - INFO - Successfully inputted homolog information from OrthoFinder into variables of Pan object!
+2022-07-28 11:58 - INFO - Successfully parsed homolog matrix.
+2022-07-28 11:58 - INFO - Beginning refinement of BGCs.
+2022-07-28 11:58 - INFO - Refinement of BGC Genbanks complete!

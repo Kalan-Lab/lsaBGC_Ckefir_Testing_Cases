@@ -1,2 +1,2 @@
 domain	domain_index	min_pos	max_pos
-LPG_synthase_TM_|_Lysylphosphatidylglycerol synthase TM region	0	22	941
+LPG_synthase_TM_|_Lysylphosphatidylglycerol synthase TM region	0	21	942

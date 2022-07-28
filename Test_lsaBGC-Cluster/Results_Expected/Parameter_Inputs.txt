@@ -1,6 +1,7 @@
-BGC Listing File: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Primary_AntiSMASH_BGCs.txt
-OrthoFinder Orthogroups.csv File: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Orthogroups.tsv
-Output Directory: /home/salamzade/Git_Repos/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/
+BGC Listing File: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Primary_AntiSMASH_BGCs.txt
+OrthoFinder Orthogroups.csv File: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Orthogroups.tsv
+Output Directory: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/
+BGC Prediction Method: ANTISMASH
 Cores: 4
 MCL Inflation Parameter: 1.4
 Jaccard Similarity Cutoff: 20.0
