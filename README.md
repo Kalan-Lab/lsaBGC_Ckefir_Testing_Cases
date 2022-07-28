@@ -4,7 +4,7 @@ Test input and resulting files for the seven primary programs of the lsaBGC suit
 
 To test each command please change-directory to the subdirectory and use bash to run the testing/example commmand (\*.cmd). For more details on the inputs and outputs for each command tested, see the [detailed walkthrough of typical workflows]([https://github.com/Kalan-Lab/lsaBGC/wiki/03.-Detailed-Walkthrough](https://github.com/Kalan-Lab/lsaBGC/wiki/03.-Tutorial:-Exploring-BGCs-in-Cutibacterium)) as well as the respective page for each of the seven core lsaBGC programs on the [lsaBGC Wiki](https://github.com/Kalan-Lab/lsaBGC/wiki). Note, that input files listing paths to other files were edited to use local paths, but generally lsaBGC references global/full paths.
 
-Each command is specified to use 4 cores/threads and time estimates are based on this. We ran tests on a server running Ubuntu 18.04.2 with AMD EPYC 7451 24-Core Processors.
+Each command is specified to use 4 cores/threads and time estimates are based on this. We ran tests on a laptop running Ubuntu 20.04 with  Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz processors.
 
 ## `lsaBGC-Ready.py` (shows how to start off lsaBGC analysis using precomputed antiSMASH and BiG-SCAPE results)
 
@@ -18,9 +18,9 @@ bash test_lsaBGC-Ready.sh &> log.txt
 
 Results from the `time` function in Unix:
 ```
-real    1m14.094s
-user    3m35.410s
-sys     0m44.948s
+real	0m49.365s
+user	2m19.744s
+sys	0m11.491s
 ```
 
 ## `lsaBGC-Cluster.py`
@@ -35,9 +35,9 @@ bash test_lsaBGC-Cluster.sh &> log.txt
 
 Results from the `time` function in Unix:
 ```
-real    0m0.951s
-user    0m1.185s
-sys     0m2.659s
+real	0m0.822s
+user	0m1.186s
+sys	0m0.768s
 ```
 
 ## `lsaBGC-Refiner.py`
@@ -52,9 +52,9 @@ bash test_lsaBGC-Refiner.sh &> log.txt
 
 Results from the `time` function in Unix (also includes running lsaBGC-See twice to visualize before and after refinement results):
 ```
-real    0m31.513s
-user    0m24.476s
-sys     0m21.234s
+real	0m36.388s
+user	0m44.184s
+sys	0m15.242s
 ```
 
 ## `lsaBGC-Expansion.py`
@@ -69,9 +69,9 @@ bash test_lsaBGC-Expansion.sh &> log.txt
 
 Results from the `time` function in Unix:
 ```
-real    0m42.470s
-user    1m31.032s
-sys     0m15.198s
+real	0m22.310s
+user	0m54.039s
+sys	0m6.806s
 ```
 
 ## `lsaBGC-See.py`
@@ -86,9 +86,9 @@ bash test_lsaBGC-See.sh &> log.txt
 
 Results from the `time` function in Unix:
 ```
-real    0m16.094s
-user    0m33.544s
-sys     0m9.004s
+real	0m27.736s
+user	1m44.975s
+sys	0m10.675s
 ```
 
 ## `lsaBGC-PopGene.py`
@@ -103,9 +103,9 @@ bash test_lsaBGC-PopGene.sh &> log.txt
 
 Results from the `time` function in Unix:
 ```
-real    6m17.611s
-user    22m8.427s
-sys     0m19.132s
+real	0m22.310s
+user	0m54.039s
+sys	0m6.806s
 ```
 
 ## `lsaBGC-Divergence.py`
@@ -120,9 +120,9 @@ bash test_lsaBGC-Divergence.sh &> log.txt
 
 Results from the `time` function in Unix:
 ```
-real    0m2.524s
-user    0m4.071s
-sys     0m3.631s
+real	0m22.310s
+user	0m54.039s
+sys	0m6.806s
 ```
 
 ## `lsaBGC-DiscoVary.py`
@@ -137,7 +137,7 @@ bash test_lsaBGC-DiscoVary.sh &> log.txt
 
 Results from the `time` function in Unix:
 ```
-real    3m32.527s
-user    9m15.486s
-sys     0m35.081s
+real	2m31.612s
+user	7m16.923s
+sys	0m12.446s
 ```
