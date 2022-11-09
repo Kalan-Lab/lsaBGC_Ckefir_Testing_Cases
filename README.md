@@ -1,5 +1,8 @@
 # Running Through Testing/Example Dataset for the *C. kefirresidentii* species complex
 
+
+### Warning - expected results based on lsaBGC version from July 2022 - will be updating these soon to reflect expected results from using the latest version of lsaBGC.
+
 Test input and resulting files for the seven primary programs of the lsaBGC suite are provided here. This test data uses publicly available genomics data for the species *C. kefirresidentii* species complex gathered from GTDB (R202) / NCBI (with 5 additional genomes included from NCBI not featured in GTDB R202 release). For testing of metagenomic mining capabilities, we randomly downsampled one paired-end readset three different times (using different seeds) with `seqtk`. The metagenomic sample was part of the dataset described by Swaney et al. 2022 and chosen because it was estimated to feature a high-abundance of *Corynebacterium*.
 
 To test each command please change-directory to the subdirectory and use bash to run the testing/example commmand (\*.cmd). For more details on the inputs and outputs for each command tested, see the [detailed walkthrough of typical workflows]([https://github.com/Kalan-Lab/lsaBGC/wiki/03.-Detailed-Walkthrough](https://github.com/Kalan-Lab/lsaBGC/wiki/03.-Tutorial:-Exploring-BGCs-in-Cutibacterium)) as well as the respective page for each of the seven core lsaBGC programs on the [lsaBGC Wiki](https://github.com/Kalan-Lab/lsaBGC/wiki). Note, that input files listing paths to other files were edited to use local paths, but generally lsaBGC references global/full paths.
