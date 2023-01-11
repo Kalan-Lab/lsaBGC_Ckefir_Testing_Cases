@@ -1,9 +1,0 @@
-# STOCKHOLM 1.0
-
-CP065972.1.region003_ORF10:gid::pid::loc:10379:11174:strand:+:17:75          dkha----ALKDAILESFERNKHRYGYRRALLDLRNQGWV-VNHKLVYKLMSEMGLRAKVRQRR..
-#=GR CP065972.1.region003_ORF10:gid::pid::loc:10379:11174:strand:+:17:75  PP 9874....58999************************886.*******************9997..
-CP068156.1.region004_ORF13:gid::pid::loc:13575:14496:strand:-:47:106         .slr--DAALVAHIAEVHEENFSVYGIRKMWHTLRRE-GIDIGREQTARLMRLAGVRGKGKG--ks
-#=GR CP068156.1.region004_ORF13:gid::pid::loc:13575:14496:strand:-:47:106 PP .985..3458999************************.8*****************998665..59
-#=GC PP_cons                                                                 ......3458999************************888******************988797..
-#=GC RF                                                                      ....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
-//

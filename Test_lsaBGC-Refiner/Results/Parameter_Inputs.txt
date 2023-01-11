@@ -1,7 +1,0 @@
-GCF Listing File: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/To_Update/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Refiner/GCF_1.txt
-OrthoFinder Orthogroups.csv File: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/To_Update/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Refiner/Orthogroups.tsv
-Output Directory: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/To_Update/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Refiner/Results/
-GCF Identifier: GCF_1
-BGC Prediction Software: ANTISMASH
-First Boundary Homolog: OG0001678
-Second Boundary Homolog: OG0001693

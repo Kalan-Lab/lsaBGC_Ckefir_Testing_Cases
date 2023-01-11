@@ -1,11 +1,11 @@
-GCF Listing File: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Expansion/GCF_1.txt
-OrthoFinder Orthogroups.csv File: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Expansion/Orthogroups.tsv
-Listing File of Prokka Annotation Files for Initial Set of Samples: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Expansion/Primary_Sample_Annotation_Files.txt
-Listing File of Prokka Annotation Files for Expansion/Additional Set of Samples: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Expansion/Additional_Sample_Annotation_Files.txt
-Output Directory: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Expansion/Results/
+GCF Listing File: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Expansion/GCF_1.txt
+OrthoFinder Orthogroups.csv File: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Expansion/Orthogroups.tsv
+Listing File of Prokka Annotation Files for Initial Set of Samples: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Expansion/Primary_Sample_Annotation_Files.txt
+Listing File of Prokka Annotation Files for Expansion/Additional Set of Samples: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Expansion/Additional_Sample_Annotation_Files.txt
+Output Directory: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Expansion/Results/
 GCF Identifier: GCF_1
 BGC Prediction Software: ANTISMASH
-Cores: 4
+cpus: 4
 Minimum Size of Segments: 5
 Minimum Core Size of Segments: 3
 Syntenic Correlation Threshold: 0.8

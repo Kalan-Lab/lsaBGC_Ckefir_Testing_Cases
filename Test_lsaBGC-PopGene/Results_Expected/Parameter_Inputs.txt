@@ -1,6 +1,6 @@
-GCF Listing File: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-PopGene/GCF_1_Expanded.txt
-OrthoFinder Orthogroups.csv File: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-PopGene/Orthogroups.expanded.tsv
-Output Directory: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-PopGene/Results/
+GCF Listing File: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-PopGene/GCF_1_Expanded.txt
+OrthoFinder Orthogroups.csv File: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-PopGene/Orthogroups.expanded.tsv
+Output Directory: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-PopGene/Results/
 GCF Identifier: GCF_1
 BGC Prediction Software: ANTISMASH
 Populations Specification/Listing File: Sample_Populations_Mapping.txt

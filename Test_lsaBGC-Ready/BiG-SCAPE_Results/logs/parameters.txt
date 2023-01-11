@@ -1,1 +1,0 @@
-/home/conda_envs/BiG-SCAPE_env/BiG-SCAPE/bigscape.py -i AntiSMASH_Test/ -o BiG-SCAPE_Results/ --pfam_dir /home/salamzade/databases/Pfam/ -c 30

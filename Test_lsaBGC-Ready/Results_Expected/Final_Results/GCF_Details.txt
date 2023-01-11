@@ -1,1 +1,1 @@
-/home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Results/BiG_SCAPE_Results_Reformatted/GCF_Details.txt
+/home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Results/BiG_SCAPE_Results_Reformatted/GCF_Details.txt

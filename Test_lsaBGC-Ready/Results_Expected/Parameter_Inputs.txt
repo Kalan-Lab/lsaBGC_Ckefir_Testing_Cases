@@ -1,12 +1,13 @@
-Primary Genome Listing File: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Primary_Genomes_Listing.txt
-BGC Predictions Genbanks Listing File: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Primary_AntiSMASH_BGCs.txt
-Output Directory: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Results/
-Additional Genome Listing File: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Additional_Genomes_Listing.txt
+Primary Genome Listing File: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Primary_Genomes_Listing.txt
+BGC Predictions Genbanks Listing File: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Primary_AntiSMASH_BGCs.txt
+Output Directory: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Results/
+Additional Genome Listing File: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Additional_Genomes_Listing.txt
 BGC Prediction Software: ANTISMASH
-OrthoFinder Mode: BGC_ONLY
-BiG-SCAPE Results Directory: /home/rauf/Projects/KalanLab/Test_lsaBGC_3/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/BiG-SCAPE_Results/
+OrthoFinder Mode: GENOME_WIDE
+BiG-SCAPE Results Directory: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/BiG-SCAPE_Results/
 Perform KOfam/PGAP Annotation?: False
 Run lsaBGC-Cluster Analysis?: False
 Run lsaBGC-AutoExpansion Analysis?: False
 Keep Intermediate Files/Directories?: False
-Number of Cores: 4
+Use pyrodigal instead of prodigal: False
+Number of cpus: 4
