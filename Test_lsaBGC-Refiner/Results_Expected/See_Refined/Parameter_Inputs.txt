@@ -1,6 +1,6 @@
-GCF Listing File: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Refiner/Results/GCF_1.txt
-OrthoFinder Orthogroups.csv File: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Refiner/Orthogroups.tsv
-Output Directory: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Refiner/See_Refined/
+GCF Listing File: /home/salamzade/lsaBGC_Development/Develop_v1.32/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Refiner/Results/GCF_1.txt
+OrthoFinder Orthogroups.csv File: /home/salamzade/lsaBGC_Development/Develop_v1.32/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Refiner/Orthogroups.tsv
+Output Directory: /home/salamzade/lsaBGC_Development/Develop_v1.32/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Refiner/See_Refined/
 GCF Identifier: GCF_X
 Species Phylogeny Newick File: None
 Sample Retention Set: 4

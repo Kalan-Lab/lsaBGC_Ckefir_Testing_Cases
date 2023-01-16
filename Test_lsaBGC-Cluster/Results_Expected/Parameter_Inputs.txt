@@ -1,6 +1,6 @@
-BGC Listing File: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Primary_AntiSMASH_BGCs.txt
-OrthoFinder Orthogroups.csv File: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Orthogroups.tsv
-Output Directory: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/
+BGC Listing File: /home/salamzade/lsaBGC_Development/Develop_v1.32/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Primary_AntiSMASH_BGCs.txt
+OrthoFinder Orthogroups.csv File: /home/salamzade/lsaBGC_Development/Develop_v1.32/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Orthogroups.tsv
+Output Directory: /home/salamzade/lsaBGC_Development/Develop_v1.32/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Cluster/Results/
 BGC Prediction Method: ANTISMASH
 cpus: 4
 MCL Inflation Parameter: 1.4

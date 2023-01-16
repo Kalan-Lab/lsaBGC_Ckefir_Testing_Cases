@@ -1,13 +1,13 @@
-2023-01-11 17:55 - INFO - Running lsaBGC version '1.31',
-2023-01-11 17:55 - INFO - Saving parameters for future records.
-2023-01-11 17:55 - INFO - Done saving parameters!
-2023-01-11 17:55 - INFO - Processing BGC Genbanks from GCF listing file.
-2023-01-11 17:55 - INFO - Incorporating genbank GCF_1_BGCs_from_Completed_Genomes/CP068156.1.region003.gbk for sample Corynebacterium_tuberculostearicum_GB_GCA_016728365_1 into analysis.
-2023-01-11 17:55 - INFO - Incorporating genbank GCF_1_BGCs_from_Completed_Genomes/CP065972.1.region003.gbk for sample Corynebacterium_aurimucosum_E_GB_GCA_016127015_1 into analysis.
-2023-01-11 17:55 - INFO - Incorporating genbank GCF_1_BGCs_from_Completed_Genomes/CP067012.1.region001.gbk for sample Corynebacterium_kefirresidentii_GB_GCA_016599755_1 into analysis.
-2023-01-11 17:55 - INFO - Successfully parsed BGC Genbanks and associated with unique IDs.
-2023-01-11 17:55 - INFO - Starting to parse OrthoFinder homolog vs sample information.
-2023-01-11 17:55 - INFO - Successfully inputted homolog information from OrthoFinder into variables of Pan object!
-2023-01-11 17:55 - INFO - Successfully parsed homolog matrix.
-2023-01-11 17:55 - INFO - Beginning refinement of BGCs.
-2023-01-11 17:55 - INFO - Refinement of BGC Genbanks complete!
+2023-01-16 19:47 - INFO - Running lsaBGC version '1.32',
+2023-01-16 19:47 - INFO - Saving parameters for future records.
+2023-01-16 19:47 - INFO - Done saving parameters!
+2023-01-16 19:47 - INFO - Processing BGC Genbanks from GCF listing file.
+2023-01-16 19:47 - INFO - Incorporating genbank GCF_1_BGCs_from_Completed_Genomes/CP068156.1.region003.gbk for sample Corynebacterium_tuberculostearicum_GB_GCA_016728365_1 into analysis.
+2023-01-16 19:47 - INFO - Incorporating genbank GCF_1_BGCs_from_Completed_Genomes/CP065972.1.region003.gbk for sample Corynebacterium_aurimucosum_E_GB_GCA_016127015_1 into analysis.
+2023-01-16 19:47 - INFO - Incorporating genbank GCF_1_BGCs_from_Completed_Genomes/CP067012.1.region001.gbk for sample Corynebacterium_kefirresidentii_GB_GCA_016599755_1 into analysis.
+2023-01-16 19:47 - INFO - Successfully parsed BGC Genbanks and associated with unique IDs.
+2023-01-16 19:47 - INFO - Starting to parse OrthoFinder homolog vs sample information.
+2023-01-16 19:47 - INFO - Successfully inputted homolog information from OrthoFinder into variables of Pan object!
+2023-01-16 19:47 - INFO - Successfully parsed homolog matrix.
+2023-01-16 19:47 - INFO - Beginning refinement of BGCs.
+2023-01-16 19:47 - INFO - Refinement of BGC Genbanks complete!

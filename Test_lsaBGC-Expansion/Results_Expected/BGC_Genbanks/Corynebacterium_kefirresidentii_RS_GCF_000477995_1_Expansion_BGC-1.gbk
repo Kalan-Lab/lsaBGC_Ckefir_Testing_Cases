@@ -1,4 +1,4 @@
-LOCUS       KI515720.1             47639 bp    DNA     linear   UNK 14-MAR-2022
+LOCUS       KI515720.1             46605 bp    DNA     linear   UNK 14-MAR-2022
 DEFINITION  Corynebacterium species strain strain.
 ACCESSION   KI515720
 VERSION     KI515720.1
@@ -9,7 +9,7 @@ SOURCE      Corynebacterium species
 COMMENT     Annotated using prokka 1.13 from
             https://github.com/tseemann/prokka.
 FEATURES             Location/Qualifiers
-     source          1..47639
+     source          1..46605
                      /organism="Corynebacterium species"
                      /mol_type="genomic DNA"
                      /strain="strain"
@@ -537,20 +537,6 @@ FEATURES             Location/Qualifiers
                      QEGIDELEAGDAMTFRYIKGEDRFSWTAAPADPSRTDPPTVYLLNLGLSSMNAPLDIRV
                      LDNIGLSNPLAARQPRIVGGRIGHDKSLDMSWQVADSAVDIDEVPAWIDKYEVAKARAA
                      LADADFQKLFATYRDPLTWDRFWKNIKFSLTDGRTLAFSSDPSDYLH"
-     CDS             complement(46659..47639)
-                     /locus_tag="AAAF_00239"
-                     /EC_number="2.4.2.45"
-                     /inference="ab initio prediction:Prodigal:2.6"
-                     /inference="similar to AA sequence:UniProtKB:P9WFR5"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="Decaprenyl-phosphate phosphoribosyltransferase"
-                     /translation="MSDDGNQHFFHSEPHTSGVDTGRKRKPPKNLVDGMIKALRPKQWV
-                     KNVLVLAAPAAAGADALFHGRVLVDVLLAFVVFCLGASSIYLINDAKDWREDQEHPTKR
-                     FRPIASGVLPIKLAYVMAVVLICLSIGLSFLATAGPQLAIVMAIYIALQLGYCFGWKHM
-                     PVIDIALVSSGFMLRTMAGGVAAGIELSQWFLLVAAFGSLFMASGKRYSEILLVEQTGA
-                     KIRKSLEGYTPTYLRFVWTLAATAVVICYTLWGFELANDAQTGGVWYQVSMVPFTIAIL
-                     RYAADVDRGQGGAPDEIALEDRTLQVLALAWLACIAMAVYIMPLF"
 ORIGIN
         1 atgctaattg cctacgatgg caccgaacga gccggccgcg ccctcgagca cgcggcccag
        61 ctgctgcggc ccaccacggt ggaaatcctc accgcttggg aacccgtagc ccggcagacc
@@ -1328,22 +1314,5 @@ ORIGIN
     46381 aatgaggtac tgccacagcg tggaggtatt ggcctctacg cgttcgccca tattgaacac
     46441 gggcccattt ccggcttcga ggttgcgcac ggttcgcagg acaatgagtc cgtcatcgga
     46501 aatccagcgg cgcgcaaaac cgccccacaa agataaaaca ccgatcacaa gaacgaccgc
-    46561 cggggtactc cagcgggcga tactcttgtg gtcggtgtta agcacgggaa gaaagtttat
-    46621 cagccccgag gaaaatttct atatcgattc agctgtgtct agaacaacgg catgatatac
-    46681 accgccatgg cgatgcaagc gagccaagcc aaagcgagaa cctgcaaagt gcggtcctcc
-    46741 agtgcaatct catccggagc gccaccctgg ccgcggtcca catcggccgc atagcgcaag
-    46801 atggcgatgg taaacggcac catggagact tggtaccaca cgccaccggt ctgggcatcg
-    46861 ttagcaagct cgaagcccca gagggtgtag cagataacca ccgcggtggc ggctagcgtc
-    46921 cacacgaagc gcaggtaggt aggcgtataa ccttccaggg acttgcggat tttcgcgccg
-    46981 gtttgctcca caagaaggat ctccgagtag cgcttgcctg aggccataaa tagcgagcca
-    47041 aaggccgcca ccagcaggaa ccactgcgaa agctcgatgc ctgcagccac gccaccggcc
-    47101 atggtgcgca gcatgaagcc ggaggaaacc agggcgatat caatcaccgg catgtgcttc
-    47161 caaccgaagc aatagcccaa ttgcaacgcg atataaatcg ccatcacaat tgccagctgc
-    47221 gggccagcgg tagcaaggaa ggatagcccg atggacaagc agatgagcac cacggccatg
-    47281 acataggcga gcttgatggg cagcacgccg gaggcaatcg ggcggaagcg tttggtcgga
-    47341 tgctcctgat cctcgcgcca gtccttcgca tcattgatca agtagatgga ggaagcgccg
-    47401 aggcagaaga cgacgaaggc caagaggaca tcgacaagca cgcggccgtg aaatagggca
-    47461 tcggcgccgg ccgcggcggg ggccgccagc acgaggacgt ttttgaccca ctgcttggga
-    47521 cgcagggcct taatcatgcc atcgacaaga ttcttcggcg gcttgcgctt gcggccggta
-    47581 tctacgccag aggtgtgcgg ttccgaatgg aaaaagtgct ggtttccatc atcactcat
+    46561 cggggtactc cagcgggcga tactcttgtg gtcggtgtta agcac
 //

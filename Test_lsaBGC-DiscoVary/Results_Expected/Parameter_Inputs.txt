@@ -1,8 +1,10 @@
-GCF Listing File: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-DiscoVary/GCF_1_Expanded.txt
-OrthoFinder Orthogroups.csv File: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-DiscoVary/Orthogroups.expanded.tsv
-Paired-Sequencing Listing File: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-DiscoVary/Testing_Metagenomics_Datasets_Listing.txt
-Output Directory: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-DiscoVary/Results/
+GCF Listing File: /home/salamzade/lsaBGC_Development/Develop_v1.32/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-DiscoVary/GCF_1_Expanded.txt
+OrthoFinder Orthogroups.csv File: /home/salamzade/lsaBGC_Development/Develop_v1.32/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-DiscoVary/Orthogroups.expanded.tsv
+Paired-Sequencing Listing File: /home/salamzade/lsaBGC_Development/Develop_v1.32/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-DiscoVary/Testing_Metagenomics_Datasets_Listing.txt
+Output Directory: /home/salamzade/lsaBGC_Development/Develop_v1.32/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-DiscoVary/Results/
 GCF Identifier: GCF_X
 BGC Prediction Software: ANTISMASH
+Ambiguity Window Length: 50
 Core Homologs Manually Provided: False
+Allow DESMAN Phasing?: False
 cpus: 4

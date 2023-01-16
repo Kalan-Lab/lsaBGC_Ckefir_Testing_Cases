@@ -466,3 +466,5 @@ BiG-SCAPE_Results/cache/domtable/CP068156.1.region002.domtable
 BiG-SCAPE_Results/cache/domtable/CP068156.1.region003.domtable
 BiG-SCAPE_Results/cache/domtable/CP067012.1.region002.domtable
 BiG-SCAPE_Results/cache/bgc_info.dict
+Output directory exists. Overwriting in 5 seconds ...
+ 

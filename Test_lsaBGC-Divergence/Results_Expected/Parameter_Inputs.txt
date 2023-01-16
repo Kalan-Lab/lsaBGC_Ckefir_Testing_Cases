@@ -1,7 +1,7 @@
-GCF Listing File: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Divergence/GCF_1_Expanded.txt
-Input Listing File of Prokka Annotation Files for All Samples: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Divergence/Sample_Annotation_Files.txt
-File Listing the Location of Codon Alignments for Each Homolog Group: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Divergence/Codon_Alignments_Listings.txt
-Output Directory: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Divergence/Results/
+GCF Listing File: /home/salamzade/lsaBGC_Development/Develop_v1.32/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Divergence/GCF_1_Expanded.txt
+Input Listing File of Prokka Annotation Files for All Samples: /home/salamzade/lsaBGC_Development/Develop_v1.32/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Divergence/Sample_Annotation_Files.txt
+File Listing the Location of Codon Alignments for Each Homolog Group: /home/salamzade/lsaBGC_Development/Develop_v1.32/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Divergence/Codon_Alignments_Listings.txt
+Output Directory: /home/salamzade/lsaBGC_Development/Develop_v1.32/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Divergence/Results/
 GCF Identifier: GCF_1
 Retention Sample Set: None
 File with Expected Amino Acid Differences Between Genomes/Samples: Pairwise_Genome_Wide_AAI_Estimates.txt

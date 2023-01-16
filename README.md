@@ -1,7 +1,7 @@
 # Running Through Testing/Example Dataset for the *C. kefirresidentii* species complex
 
 
-### Warning: Last run on  01/11/2023 using lsaBGC commit: db8223447baa44d146955bd579b9c6fb89d0cfa2
+### Warning: Last run on  01/16/2023 using v1.32
 
 Test input and resulting files for the seven primary programs of the lsaBGC suite are provided here. This test data uses publicly available genomics data for the species *C. kefirresidentii* species complex gathered from GTDB (R202) / NCBI (with 5 additional genomes included from NCBI not featured in GTDB R202 release). For testing of metagenomic mining capabilities, we randomly downsampled one paired-end readset three different times (using different seeds) with `seqtk`. The metagenomic sample was part of the dataset described by Swaney et al. 2022 and chosen because it was estimated to feature a high-abundance of *Corynebacterium*.
 
@@ -21,9 +21,9 @@ bash test_lsaBGC-Ready.sh &> log.txt
 
 Results from the `time` function in Unix:
 ```
-real    1m9.508s
-user    3m7.190s
-sys     0m18.849s
+real	1m14.673s
+user	3m6.711s
+sys	    0m18.213s
 ```
 
 ## `lsaBGC-Cluster.py`
@@ -38,9 +38,9 @@ bash test_lsaBGC-Cluster.sh &> log.txt
 
 Results from the `time` function in Unix:
 ```
-real    0m1.054s
-user    0m1.539s
-sys     0m6.024s
+real	0m1.089s
+user	0m2.092s
+sys     0m7.223s
 ```
 
 ## `lsaBGC-Refiner.py`
@@ -55,9 +55,9 @@ bash test_lsaBGC-Refiner.sh &> log.txt
 
 Results from the `time` function in Unix (also includes running lsaBGC-See twice to visualize before and after refinement results):
 ```
-real    1m3.609s
-user    1m4.447s
-sys     0m51.427s
+real	1m8.324s
+user	1m6.226s
+sys	    1m0.170s
 ```
 
 ## `lsaBGC-Expansion.py`
@@ -72,9 +72,9 @@ bash test_lsaBGC-Expansion.sh &> log.txt
 
 Results from the `time` function in Unix:
 ```
-real    0m37.799s
-user    1m32.546s
-sys     0m23.109s
+real	0m42.674s
+user	1m32.919s
+sys	    0m21.066s
 ```
 
 ## `lsaBGC-See.py`
@@ -89,9 +89,9 @@ bash test_lsaBGC-See.sh &> log.txt
 
 Results from the `time` function in Unix:
 ```
-real    0m22.511s
-user    1m23.182s
-sys     0m23.729s
+real	0m18.546s
+user	0m15.443s
+sys     0m7.711s
 ```
 
 ## `lsaBGC-PopGene.py`
@@ -106,9 +106,9 @@ bash test_lsaBGC-PopGene.sh &> log.txt
 
 Results from the `time` function in Unix:
 ```
-real    7m3.237s
-user    23m42.281s
-sys     0m48.057s
+real	6m50.525s
+user	22m54.290s
+sys	    0m45.867s
 ```
 
 ## `lsaBGC-Divergence.py`
@@ -123,9 +123,9 @@ bash test_lsaBGC-Divergence.sh &> log.txt
 
 Results from the `time` function in Unix:
 ```
-real    0m3.063s
-user    0m5.399s
-sys     0m6.808s
+real	0m2.901s
+user	0m6.332s
+sys	    0m8.915s
 ```
 
 ## `lsaBGC-DiscoVary.py`
@@ -140,7 +140,7 @@ bash test_lsaBGC-DiscoVary.sh &> log.txt
 
 Results from the `time` function in Unix:
 ```
-real    3m19.678s
-user    8m52.584s
-sys     0m39.430s
+real	3m16.201s
+user	8m46.107s
+sys	    0m36.554s
 ```

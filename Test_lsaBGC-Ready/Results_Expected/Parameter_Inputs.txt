@@ -1,10 +1,10 @@
-Primary Genome Listing File: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Primary_Genomes_Listing.txt
-BGC Predictions Genbanks Listing File: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Primary_AntiSMASH_BGCs.txt
-Output Directory: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Results/
-Additional Genome Listing File: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Additional_Genomes_Listing.txt
+Primary Genome Listing File: /home/salamzade/lsaBGC_Development/Develop_v1.32/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Primary_Genomes_Listing.txt
+BGC Predictions Genbanks Listing File: /home/salamzade/lsaBGC_Development/Develop_v1.32/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Primary_AntiSMASH_BGCs.txt
+Output Directory: /home/salamzade/lsaBGC_Development/Develop_v1.32/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Results/
+Additional Genome Listing File: /home/salamzade/lsaBGC_Development/Develop_v1.32/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/Additional_Genomes_Listing.txt
 BGC Prediction Software: ANTISMASH
 OrthoFinder Mode: GENOME_WIDE
-BiG-SCAPE Results Directory: /home/salamzade/lsaBGC_Development/Jan_2023_Ctsc_Dataset_Rerun/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/BiG-SCAPE_Results/
+BiG-SCAPE Results Directory: /home/salamzade/lsaBGC_Development/Develop_v1.32/lsaBGC_Ckefir_Testing_Cases/Test_lsaBGC-Ready/BiG-SCAPE_Results/
 Perform KOfam/PGAP Annotation?: False
 Run lsaBGC-Cluster Analysis?: False
 Run lsaBGC-AutoExpansion Analysis?: False
